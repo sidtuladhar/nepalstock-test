@@ -4,12 +4,14 @@ import os
 # Constants
 CSV_DIRECTORY = "nepse price database"
 SELECTED_COLUMNS = ["BUSINESS_DATE", "SECURITY_NAME", "OPEN_PRICE", "HIGH_PRICE", "LOW_PRICE", "CLOSE_PRICE",
-                    "TOTAL_TRADED_QUANTITY", "TOTAL_TRADED_VALUE", "TOTAL_TRADES", "AVERAGE_TRADED_PRICE", "MARKET_CAPITALIZATION"]
+                    "TOTAL_TRADED_QUANTITY", "TOTAL_TRADED_VALUE", "TOTAL_TRADES", "AVERAGE_TRADED_PRICE",
+                    "MARKET_CAPITALIZATION"]
 OUTPUT_DIRECTORY = "csv_files"
 PROCESSED_DATES_FILE = "processed_dates.txt"
 
 # Create the output directory if it doesn't exist
 os.makedirs(OUTPUT_DIRECTORY, exist_ok=True)
+
 
 def read_processed_dates():
     processed_dates = set()
