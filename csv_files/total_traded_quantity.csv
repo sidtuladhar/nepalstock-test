@@ -1,0 +1,838 @@
+BUSINESS_DATE,SECURITY_NAME,SYMBOL,TOTAL_TRADED_QUANTITY
+2023-07-16,10 % NMB DEBENTURE 2085,NMBD2085,10
+2023-07-13,10 % NMB DEBENTURE 2085,NMBD2085,50
+2023-07-16,10% Laxmi Bank Debenture 2086,LBLD86,10
+2023-07-13,10% Laxmi Bank Debenture 2086,LBLD86,25
+2023-07-16,10% Nabil Debenture 2082,NBLD82,25
+2023-07-13,10% Nabil Debenture 2082,NBLD82,35
+2023-07-13,10% Nepal SBI Bank Debenture 2086,SBIBD86,10
+2023-07-16,10% Prabhu Bank Debenture 2084 ,PBLD84,10
+2023-07-13,10% Prabhu Bank Debenture 2084 ,PBLD84,195
+2023-07-17,10% Prime Debenture 2088,PBD88,455
+2023-07-16,10% Prime Debenture 2088,PBD88,265
+2023-07-13,10% Prime Debenture 2088,PBD88,480
+2023-07-16,10% Sanima Bank Limited Debenture,SAND2085,10
+2023-07-13,10% Sunrise Debenture 2080,SRD80,25
+2023-07-13,10.25% GLOBAL IME BANK LTD. DEBENTURE 2080/81,GBD80/81,45
+2023-07-17,10.25% KBL Debenture 2086,KBLD86,20
+2023-07-16,10.25% Machhapuchhre Bank Debenture 2085,MBLD2085,348
+2023-07-16,10.25% NBBL Debenture 2085,NBBD2085,125
+2023-07-13,10.25% NBBL Debenture 2085,NBBD2085,10
+2023-07-16,10.25% NIC Asia Debenture 2083/84,NICD83/84,10
+2023-07-13,10.25% NIC Asia Debenture 2083/84,NICD83/84,10
+2023-07-16,10.25% Nepal SBI Bank Debenture 2083,SBID83,25
+2023-07-16,10.25% Prabhu Bank  Debenture 2086,PBLD86,30
+2023-07-13,10.25% SBL Debenture 2083,SBLD83,80
+2023-07-13,10.25% Sunrise Bank Debenture 2083,SRBLD83,10
+2023-07-16,10.35% Agricultural Bank Debenture 2083,ADBLD83,515
+2023-07-13,10.35% Agricultural Bank Debenture 2083,ADBLD83,10
+2023-07-16,10.5 % NEPAL INVESTMENT DEBENTURE 2082,NIBD2082,663
+2023-07-13,10.5 % NEPAL INVESTMENT DEBENTURE 2082,NIBD2082,235
+2023-07-16,10.50% SBL Debenture 2082,SBLD2082,180
+2023-07-13,10.50% SBL Debenture 2082,SBLD2082,10
+2023-07-16,11% NIC Asia Debenture 082/83,NICAD8283,599
+2023-07-13,11% NIC Asia Debenture 082/83,NICAD8283,35
+2023-07-16,12 % Goodwill Finance Limited Debenture 2083,GWFD83,220
+2023-07-13,12 % Goodwill Finance Limited Debenture 2083,GWFD83,380
+2023-07-16,12% ICFC Finance Limited Debenture 2083,ICFCD83,65
+2023-07-13,12% ICFC Finance Limited Debenture 2083,ICFCD83,70
+2023-07-17,8.5% BOK Debenture 2086,BOKD86,50
+2023-07-16,8.5% BOK Debenture 2086,BOKD86,50
+2023-07-16,8.5% Laxmi Bank Debenture 2088,LBLD88,25
+2023-07-13,8.5% Nepal Bank Debenture 2087,NBLD87,165
+2023-07-17,8.5% Nepal Investment Bank Debenture 2084,NIBD84,40
+2023-07-16,8.5% Nepal Investment Bank Debenture 2084,NIBD84,25
+2023-07-13,8.5% Nepal Investment Bank Debenture 2084,NIBD84,45
+2023-07-16,8.5% Prabhu Bank Debenture 2087,PBLD87,25
+2023-07-13,8.5% Prabhu Bank Debenture 2087,PBLD87,15
+2023-07-17,8.5% SBL Debenture 2084,SBLD84,15
+2023-07-16,8.5% Sanima Debenture 2087,SBD87,10
+2023-07-13,8.5% Sanima Debenture 2087,SBD87,40
+2023-07-16,9.5% Manjushree Finance Limited Debenture 2085,MFLD85,45
+2023-07-13,9.5% Manjushree Finance Limited Debenture 2085,MFLD85,135
+2023-07-17,Aarambha Chautari Laghubitta Bittiya Sanstha Limited,ACLBSL,2473
+2023-07-16,Aarambha Chautari Laghubitta Bittiya Sanstha Limited,ACLBSL,588
+2023-07-13,Aarambha Chautari Laghubitta Bittiya Sanstha Limited,ACLBSL,3376
+2023-07-17,Aatmanirbhar Laghubitta Bittiya Sanstha Limited,ANLB,1533
+2023-07-16,Aatmanirbhar Laghubitta Bittiya Sanstha Limited,ANLB,980
+2023-07-13,Aatmanirbhar Laghubitta Bittiya Sanstha Limited,ANLB,2206
+2023-07-17,Agricultural Development Bank Limited,ADBL,39477
+2023-07-16,Agricultural Development Bank Limited,ADBL,46266
+2023-07-13,Agricultural Development Bank Limited,ADBL,31352
+2023-07-17,Ankhu Khola Jalvidhyut Company Ltd,AKJCL,12609
+2023-07-16,Ankhu Khola Jalvidhyut Company Ltd,AKJCL,11525
+2023-07-13,Ankhu Khola Jalvidhyut Company Ltd,AKJCL,29258
+2023-07-17,Api Power Company Ltd.,API,93444
+2023-07-16,Api Power Company Ltd.,API,51262
+2023-07-13,Api Power Company Ltd.,API,126946
+2023-07-17,Arun Kabeli Power Ltd.,AKPL,101395
+2023-07-16,Arun Kabeli Power Ltd.,AKPL,61190
+2023-07-13,Arun Kabeli Power Ltd.,AKPL,132959
+2023-07-17,Arun Valley Hydropower Development Co. Ltd.,AHPC,44045
+2023-07-16,Arun Valley Hydropower Development Co. Ltd.,AHPC,35211
+2023-07-13,Arun Valley Hydropower Development Co. Ltd.,AHPC,109470
+2023-07-17,Asha Laghubitta Bittiya Sanstha Ltd,ALBSL,1720
+2023-07-16,Asha Laghubitta Bittiya Sanstha Ltd,ALBSL,302
+2023-07-13,Asha Laghubitta Bittiya Sanstha Ltd,ALBSL,2546
+2023-07-17,Asian Hydropower Limited,AHL,2580
+2023-07-16,Asian Hydropower Limited,AHL,2350
+2023-07-13,Asian Hydropower Limited,AHL,4313
+2023-07-17,Asian Life Insurance Co. Limited,ALICL,39816
+2023-07-16,Asian Life Insurance Co. Limited,ALICL,100722
+2023-07-13,Asian Life Insurance Co. Limited,ALICL,76660
+2023-07-17,Aviyan Laghubitta Bittiya Sanstha Limited,AVYAN,22269
+2023-07-16,Aviyan Laghubitta Bittiya Sanstha Limited,AVYAN,2800
+2023-07-13,Aviyan Laghubitta Bittiya Sanstha Limited,AVYAN,9568
+2023-07-17,BPW Laghubitta Bittiya Sanstha Limited,BPW,2003
+2023-07-16,BPW Laghubitta Bittiya Sanstha Limited,BPW,820
+2023-07-13,BPW Laghubitta Bittiya Sanstha Limited,BPW,1010
+2023-07-17,Balephi Hydropower Limited,BHL,1820
+2023-07-16,Balephi Hydropower Limited,BHL,3290
+2023-07-13,Balephi Hydropower Limited,BHL,7622
+2023-07-17,Barahi Hydropower Public Limited,BHPL,2268
+2023-07-16,Barahi Hydropower Public Limited,BHPL,2281
+2023-07-13,Barahi Hydropower Public Limited,BHPL,2141
+2023-07-17,Barun Hydropower Co. Ltd.,BARUN,14991
+2023-07-16,Barun Hydropower Co. Ltd.,BARUN,17024
+2023-07-13,Barun Hydropower Co. Ltd.,BARUN,41470
+2023-07-17,Best Finance Company Ltd.,BFC,21676
+2023-07-16,Best Finance Company Ltd.,BFC,14473
+2023-07-13,Best Finance Company Ltd.,BFC,29318
+2023-07-17,Bhugol Energy Development Company Limited,BEDC,5512
+2023-07-16,Bhugol Energy Development Company Limited,BEDC,5089
+2023-07-13,Bhugol Energy Development Company Limited,BEDC,8649
+2023-07-17,Bindhyabasini Hydropower Development Company Limited,BHDC,5213
+2023-07-16,Bindhyabasini Hydropower Development Company Limited,BHDC,6360
+2023-07-13,Bindhyabasini Hydropower Development Company Limited,BHDC,7585
+2023-07-17,Bishal Bazar Company Limited,BBC,380
+2023-07-16,Bishal Bazar Company Limited,BBC,100
+2023-07-13,Bishal Bazar Company Limited,BBC,105
+2023-07-17,Bottlers Nepal (Terai) Limited,BNT,40
+2023-07-13,Bottlers Nepal (Terai) Limited,BNT,25
+2023-07-17,Buddha Bhumi Nepal Hydropower Company Limited,BNHC,2941
+2023-07-16,Buddha Bhumi Nepal Hydropower Company Limited,BNHC,1171
+2023-07-13,Buddha Bhumi Nepal Hydropower Company Limited,BNHC,5114
+2023-07-17,Butwal Power Company Limited,BPCL,8079
+2023-07-16,Butwal Power Company Limited,BPCL,9240
+2023-07-13,Butwal Power Company Limited,BPCL,11483
+2023-07-17,CEDB Hydropower Development Company Limited,CHDC,8725
+2023-07-16,CEDB Hydropower Development Company Limited,CHDC,5245
+2023-07-13,CEDB Hydropower Development Company Limited,CHDC,20489
+2023-07-16,CITIZENS MUTUAL FUND 2,CMF2,197787
+2023-07-13,CITIZENS MUTUAL FUND 2,CMF2,84100
+2023-07-17,CYC Nepal Laghubitta Bittiya Sanstha Limited,CYCL,10089
+2023-07-16,CYC Nepal Laghubitta Bittiya Sanstha Limited,CYCL,7751
+2023-07-13,CYC Nepal Laghubitta Bittiya Sanstha Limited,CYCL,9547
+2023-07-17,Central Finance Co. Ltd.,CFCL,22573
+2023-07-16,Central Finance Co. Ltd.,CFCL,11838
+2023-07-13,Central Finance Co. Ltd.,CFCL,53721
+2023-07-16,Century Debenture 2088,CCBD88,10
+2023-07-13,Century Debenture 2088,CCBD88,45
+2023-07-17,Chandragiri Hills Limited,CGH,9009
+2023-07-16,Chandragiri Hills Limited,CGH,1445
+2023-07-13,Chandragiri Hills Limited,CGH,2773
+2023-07-17,Chhimek Laghubitta Bittiya Sanstha Limited,CBBL,16925
+2023-07-16,Chhimek Laghubitta Bittiya Sanstha Limited,CBBL,14273
+2023-07-13,Chhimek Laghubitta Bittiya Sanstha Limited,CBBL,17830
+2023-07-17,Chhyangdi Hydropower Ltd.,CHL,3996
+2023-07-16,Chhyangdi Hydropower Ltd.,CHL,1498
+2023-07-13,Chhyangdi Hydropower Ltd.,CHL,6644
+2023-07-17,Chilime Hydropower Company Limited,CHCL,19305
+2023-07-16,Chilime Hydropower Company Limited,CHCL,22932
+2023-07-13,Chilime Hydropower Company Limited,CHCL,137437
+2023-07-17,Citizen Investment Trust,CIT,11591
+2023-07-16,Citizen Investment Trust,CIT,10436
+2023-07-13,Citizen Investment Trust,CIT,15377
+2023-07-17,Citizens Bank International Limited,CZBIL,97645
+2023-07-16,Citizens Bank International Limited,CZBIL,24950
+2023-07-13,Citizens Bank International Limited,CZBIL,32498
+2023-07-17,Citizens Mutual Fund -1,CMF1,2200
+2023-07-16,Citizens Mutual Fund -1,CMF1,29702
+2023-07-13,Citizens Mutual Fund -1,CMF1,2000
+2023-07-17,City Hotel Limited,CITY,27694
+2023-07-16,City Hotel Limited,CITY,35142
+2023-07-13,City Hotel Limited,CITY,48946
+2023-07-16,Civil Bank Debenture 2088,CBLD88,310
+2023-07-13,Civil Bank Debenture 2088,CBLD88,80
+2023-07-17,Civil Laghubitta Bittiya Sanstha Ltd.,CLBSL,1427
+2023-07-16,Civil Laghubitta Bittiya Sanstha Ltd.,CLBSL,302
+2023-07-13,Civil Laghubitta Bittiya Sanstha Ltd.,CLBSL,901
+2023-07-17,Corporate Development Bank Limited,CORBL,24147
+2023-07-16,Corporate Development Bank Limited,CORBL,12436
+2023-07-13,Corporate Development Bank Limited,CORBL,12114
+2023-07-13,Deprosc LaghuBitta Promoter Share,DDBLPO,119000
+2023-07-17,Deprosc Laghubitta Bittiya Sanstha Limited,DDBL,8920
+2023-07-16,Deprosc Laghubitta Bittiya Sanstha Limited,DDBL,7768
+2023-07-13,Deprosc Laghubitta Bittiya Sanstha Limited,DDBL,18771
+2023-07-17,Dibyashwori Hydropower Ltd.,DHPL,4297
+2023-07-16,Dibyashwori Hydropower Ltd.,DHPL,5740
+2023-07-13,Dibyashwori Hydropower Ltd.,DHPL,9841
+2023-07-17,Dolti Power Company Limited,DOLTI,8295
+2023-07-16,Dolti Power Company Limited,DOLTI,4465
+2023-07-13,Dolti Power Company Limited,DOLTI,8899
+2023-07-17,Dordi Khola Jal Bidyut Company Limited,DORDI,4047
+2023-07-16,Dordi Khola Jal Bidyut Company Limited,DORDI,4513
+2023-07-13,Dordi Khola Jal Bidyut Company Limited,DORDI,12898
+2023-07-17,Eastern Hydropower Limited,EHPL,4692
+2023-07-16,Eastern Hydropower Limited,EHPL,1851
+2023-07-13,Eastern Hydropower Limited,EHPL,3295
+2023-07-17,Emerging Nepal Limited,ENL,1171
+2023-07-16,Emerging Nepal Limited,ENL,886
+2023-07-13,Emerging Nepal Limited,ENL,2816
+2023-07-17,Everest Bank Limited,EBL,61987
+2023-07-16,Everest Bank Limited,EBL,21678
+2023-07-16,Everest Bank Limited,EBLD86,75
+2023-07-13,Everest Bank Limited,EBL,50396
+2023-07-13,Everest Bank Limited,EBLD86,160
+2023-07-17,Excel Development Bank Ltd.,EDBL,22015
+2023-07-16,Excel Development Bank Ltd.,EDBL,15410
+2023-07-13,Excel Development Bank Ltd.,EDBL,18636
+2023-07-17,First Micro Finance Laghubitta Bittiya Sanstha Limited,FMDBL,30221
+2023-07-16,First Micro Finance Laghubitta Bittiya Sanstha Limited,FMDBL,26621
+2023-07-13,First Micro Finance Laghubitta Bittiya Sanstha Limited,FMDBL,69336
+2023-07-17,Forward Microfinance Laghubitta Bittiya Sanstha Limited,FOWAD,4339
+2023-07-16,Forward Microfinance Laghubitta Bittiya Sanstha Limited,FOWAD,3195
+2023-07-13,Forward Microfinance Laghubitta Bittiya Sanstha Limited,FOWAD,9581
+2023-07-17,Ganapati Laghubitta Bittiya Sanstha Limited,GMFBS,368
+2023-07-16,Ganapati Laghubitta Bittiya Sanstha Limited,GMFBS,852
+2023-07-13,Ganapati Laghubitta Bittiya Sanstha Limited,GMFBS,414
+2023-07-17,Garima Bikas Bank Limited,GBBL,68270
+2023-07-16,Garima Bikas Bank Limited,GBBL,37087
+2023-07-13,Garima Bikas Bank Limited,GBBL,33617
+2023-07-17,Ghalemdi Hydro Limited,GHL,15134
+2023-07-16,Ghalemdi Hydro Limited,GHL,12452
+2023-07-13,Ghalemdi Hydro Limited,GHL,18759
+2023-07-17,Global IME Balanced Fund-1,GIBF1,2050
+2023-07-16,Global IME Balanced Fund-1,GIBF1,3950
+2023-07-13,Global IME Balanced Fund-1,GIBF1,2220
+2023-07-17,Global IME Bank Limited,GBIME,112081
+2023-07-16,Global IME Bank Limited,GBIME,71941
+2023-07-13,Global IME Bank Limited,GBIME,86772
+2023-07-16,Global IME Bank Limited Debenture 2086/87,GBILD86/87,275
+2023-07-13,Global IME Bank Limited Debenture 2086/87,GBILD86/87,40
+2023-07-13,Global IME Bank Ltd. Promoter Share,GBIMEP,10000
+2023-07-17,Global IME Laghubitta Bittiya Sanstha Ltd.,GILB,10661
+2023-07-16,Global IME Laghubitta Bittiya Sanstha Ltd.,GILB,6715
+2023-07-13,Global IME Laghubitta Bittiya Sanstha Ltd.,GILB,5366
+2023-07-17,Goodwill Finance Limited,GFCL,41296
+2023-07-16,Goodwill Finance Limited,GFCL,7572
+2023-07-13,Goodwill Finance Limited,GFCL,16358
+2023-07-17,Grameen Bikas Laghubitta Bittiya Sanstha Ltd.,GBLBS,9467
+2023-07-16,Grameen Bikas Laghubitta Bittiya Sanstha Ltd.,GBLBS,9816
+2023-07-13,Grameen Bikas Laghubitta Bittiya Sanstha Ltd.,GBLBS,8439
+2023-07-17,Green Development Bank Ltd.,GRDBL,8929
+2023-07-16,Green Development Bank Ltd.,GRDBL,3682
+2023-07-13,Green Development Bank Ltd.,GRDBL,9948
+2023-07-17,Green Ventures Limited,GVL,16228
+2023-07-16,Green Ventures Limited,GVL,17660
+2023-07-13,Green Ventures Limited,GVL,35064
+2023-07-17,GreenLife Hydropower Limited,GLH,7501
+2023-07-16,GreenLife Hydropower Limited,GLH,3780
+2023-07-13,GreenLife Hydropower Limited,GLH,79148
+2023-07-17,Guheshowori Merchant Bank & Finance Co. Ltd.,GMFIL,77056
+2023-07-16,Guheshowori Merchant Bank & Finance Co. Ltd.,GMFIL,31559
+2023-07-13,Guheshowori Merchant Bank & Finance Co. Ltd.,GMFIL,46193
+2023-07-17,Gurans Laghubitta Bittiya Sanstha Limited,GLBSL,474
+2023-07-16,Gurans Laghubitta Bittiya Sanstha Limited,GLBSL,670
+2023-07-13,Gurans Laghubitta Bittiya Sanstha Limited,GLBSL,382
+2023-07-17,Gurkhas Finance Ltd.,GUFL,23126
+2023-07-16,Gurkhas Finance Ltd.,GUFL,45240
+2023-07-13,Gurkhas Finance Ltd.,GUFL,31405
+2023-07-17,Himal Dolakha Hydropower Company Limited,HDHPC,39357
+2023-07-16,Himal Dolakha Hydropower Company Limited,HDHPC,36334
+2023-07-13,Himal Dolakha Hydropower Company Limited,HDHPC,113729
+2023-07-17,Himalaya Urja Bikas Company Limited,HURJA,27770
+2023-07-16,Himalaya Urja Bikas Company Limited,HURJA,21990
+2023-07-13,Himalaya Urja Bikas Company Limited,HURJA,52759
+2023-07-17,Himalayan Bank Limited,HBL,49453
+2023-07-16,Himalayan Bank Limited,HBL,24838
+2023-07-13,Himalayan Bank Limited,HBL,19046
+2023-07-17,Himalayan Distillery Limited,HDL,18141
+2023-07-16,Himalayan Distillery Limited,HDL,16705
+2023-07-13,Himalayan Distillery Limited,HDL,30425
+2023-07-17,Himalayan Everest Insurance Limited,HEI,28992
+2023-07-16,Himalayan Everest Insurance Limited,HEI,19383
+2023-07-13,Himalayan Everest Insurance Limited,HEI,35946
+2023-07-17,Himalayan Everest Insurance Limited Promoter,HEIP,1011
+2023-07-16,Himalayan Everest Insurance Limited Promoter,HEIP,166392
+2023-07-13,Himalayan Everest Insurance Limited Promoter,HEIP,13209
+2023-07-17,Himalayan Hydropower Limited,HHL,6900
+2023-07-16,Himalayan Hydropower Limited,HHL,5305
+2023-07-13,Himalayan Hydropower Limited,HHL,11755
+2023-07-17,Himalayan Life Insurance Limited,HLI,212261
+2023-07-16,Himalayan Life Insurance Limited,HLI,308820
+2023-07-13,Himalayan Life Insurance Limited,HLI,318517
+2023-07-17,Himalayan Power Partner Ltd.,HPPL,11553
+2023-07-16,Himalayan Power Partner Ltd.,HPPL,12709
+2023-07-13,Himalayan Power Partner Ltd.,HPPL,41421
+2023-07-17,Hydorelectricity Investment and Development Company Limited Promoter,HIDCLP,53385
+2023-07-16,Hydorelectricity Investment and Development Company Limited Promoter,HIDCLP,17395
+2023-07-13,Hydorelectricity Investment and Development Company Limited Promoter,HIDCLP,68346
+2023-07-17,Hydorelectricity Investment and Development Company Ltd,HIDCL,131978
+2023-07-16,Hydorelectricity Investment and Development Company Ltd,HIDCL,152816
+2023-07-13,Hydorelectricity Investment and Development Company Ltd,HIDCL,112548
+2023-07-17,ICFC Finance Limited,ICFC,26265
+2023-07-16,ICFC Finance Limited,ICFC,25300
+2023-07-13,ICFC Finance Limited,ICFC,53621
+2023-07-17,IGI Prudential insurance Limited,IGI,88764
+2023-07-16,IGI Prudential insurance Limited,IGI,66579
+2023-07-13,IGI Prudential insurance Limited,IGI,113923
+2023-07-17,Infinity Laghubitta Bittiya Sanstha Limited,ILBS,2069
+2023-07-16,Infinity Laghubitta Bittiya Sanstha Limited,ILBS,1849
+2023-07-13,Infinity Laghubitta Bittiya Sanstha Limited,ILBS,2527
+2023-07-17,Ingwa Hydropower Limited,IHL,7738
+2023-07-16,Ingwa Hydropower Limited,IHL,3911
+2023-07-13,Ingwa Hydropower Limited,IHL,9348
+2023-07-17,Jalpa Samudayik Laghubitta Bittiya Sanstha Limited,JALPA,1423
+2023-07-16,Jalpa Samudayik Laghubitta Bittiya Sanstha Limited,JALPA,806
+2023-07-13,Jalpa Samudayik Laghubitta Bittiya Sanstha Limited,JALPA,540
+2023-07-17,Janaki Finance Company Limited,JFL,20857
+2023-07-16,Janaki Finance Company Limited,JFL,18009
+2023-07-13,Janaki Finance Company Limited,JFL,17384
+2023-07-17,Janautthan Samudayic Laghubitta Bittya Sanstha Limited,JSLBB,870
+2023-07-16,Janautthan Samudayic Laghubitta Bittya Sanstha Limited,JSLBB,1245
+2023-07-13,Janautthan Samudayic Laghubitta Bittya Sanstha Limited,JSLBB,2177
+2023-07-17,Jeevan Bikas Laghubitta  Bittya Sanstha Ltd,JBLB,3426
+2023-07-16,Jeevan Bikas Laghubitta  Bittya Sanstha Ltd,JBLB,3874
+2023-07-13,Jeevan Bikas Laghubitta  Bittya Sanstha Ltd,JBLB,3007
+2023-07-17,Joshi Hydropower Development Company Ltd,JOSHI,11151
+2023-07-16,Joshi Hydropower Development Company Ltd,JOSHI,10139
+2023-07-13,Joshi Hydropower Development Company Ltd,JOSHI,18023
+2023-07-17,Jyoti Bikas Bank Limited,JBBL,68872
+2023-07-16,Jyoti Bikas Bank Limited,JBBL,29852
+2023-07-13,Jyoti Bikas Bank Limited,JBBL,68272
+2023-07-16,Jyoti Bikash  Bank Ltd. Promoter Share,JBBLPO,25000
+2023-07-17,Kalika Laghubitta Bittiya Sanstha Ltd,KMCDB,1247
+2023-07-16,Kalika Laghubitta Bittiya Sanstha Ltd,KMCDB,1238
+2023-07-13,Kalika Laghubitta Bittiya Sanstha Ltd,KMCDB,6509
+2023-07-17,Kalika power Company Ltd,KPCL,3572
+2023-07-16,Kalika power Company Ltd,KPCL,582
+2023-07-13,Kalika power Company Ltd,KPCL,2348
+2023-07-17,Kalinchowk Darshan Limited,KDL,9569
+2023-07-16,Kalinchowk Darshan Limited,KDL,9509
+2023-07-13,Kalinchowk Darshan Limited,KDL,9192
+2023-07-17,Kamana Sewa Bikas Bank Limited,KSBBL,101357
+2023-07-16,Kamana Sewa Bikas Bank Limited,KSBBL,14094
+2023-07-13,Kamana Sewa Bikas Bank Limited,KSBBL,43541
+2023-07-17,Karnali Development Bank Limited,KRBL,20712
+2023-07-16,Karnali Development Bank Limited,KRBL,7893
+2023-07-13,Karnali Development Bank Limited,KRBL,15432
+2023-07-17,Khanikhola Hydropower Co. Ltd.,KKHC,6065
+2023-07-16,Khanikhola Hydropower Co. Ltd.,KKHC,6074
+2023-07-13,Khanikhola Hydropower Co. Ltd.,KKHC,4505
+2023-07-17,Kisan Lagubitta Bittiya Sanstha Limited,KLBSL,270
+2023-07-16,Kisan Lagubitta Bittiya Sanstha Limited,KLBSL,140
+2023-07-13,Kisan Lagubitta Bittiya Sanstha Limited,KLBSL,651
+2023-07-17,Kumari Bank Limited,KBL,221976
+2023-07-16,Kumari Bank Limited,KBL,178823
+2023-07-13,Kumari Bank Limited,KBL,115663
+2023-07-16,Kumari Bank Limited Promotor Share,KBLPO,11050
+2023-07-17,Kumari Dhanabriddhi Yojana,KDBY,14000
+2023-07-16,Kumari Dhanabriddhi Yojana,KDBY,8900
+2023-07-13,Kumari Dhanabriddhi Yojana,KDBY,2500
+2023-07-17,Kumari Equity Fund,KEF,400
+2023-07-16,Kumari Equity Fund,KEF,123594
+2023-07-13,Kumari Equity Fund,KEF,37531
+2023-07-13,Laxmi Bank Limited,LBL,21479
+2023-07-17,Laxmi Equity Fund,LEMF,40235
+2023-07-16,Laxmi Equity Fund,LEMF,11700
+2023-07-13,Laxmi Equity Fund,LEMF,92301
+2023-07-17,Laxmi Laghubitta Bittiya Sanstha Ltd.,LLBS,538
+2023-07-16,Laxmi Laghubitta Bittiya Sanstha Ltd.,LLBS,1092
+2023-07-13,Laxmi Laghubitta Bittiya Sanstha Ltd.,LLBS,2099
+2023-07-17,Laxmi Unnati Kosh,LUK,40183
+2023-07-16,Laxmi Unnati Kosh,LUK,62200
+2023-07-13,Laxmi Unnati Kosh,LUK,32090
+2023-07-17,Liberty Energy Company Limited,LEC,6130
+2023-07-16,Liberty Energy Company Limited,LEC,8415
+2023-07-13,Liberty Energy Company Limited,LEC,33282
+2023-07-17,Life Insurance Corporation (Nepal) Limited,LICN,2870
+2023-07-16,Life Insurance Corporation (Nepal) Limited,LICN,4938
+2023-07-13,Life Insurance Corporation (Nepal) Limited,LICN,6396
+2023-07-17,Lumbini Bikas Bank Ltd.,LBBL,104134
+2023-07-16,Lumbini Bikas Bank Ltd.,LBBL,47334
+2023-07-13,Lumbini Bikas Bank Ltd.,LBBL,46624
+2023-07-17,Machhapuchhre Bank Limited,MBL,47648
+2023-07-16,Machhapuchhre Bank Limited,MBL,35728
+2023-07-13,Machhapuchhre Bank Limited,MBL,32599
+2023-07-17,Madhya Bhotekoshi Jalavidyut Company Limited,MBJC,16936
+2023-07-16,Madhya Bhotekoshi Jalavidyut Company Limited,MBJC,23615
+2023-07-13,Madhya Bhotekoshi Jalavidyut Company Limited,MBJC,31678
+2023-07-17,Mahalaxmi Bikas Bank Ltd.,MLBL,53465
+2023-07-16,Mahalaxmi Bikas Bank Ltd.,MLBL,41162
+2023-07-13,Mahalaxmi Bikas Bank Ltd.,MLBL,51750
+2023-07-16,Mahalxmi Bikas Bank Ltd. Promotor Share,MLBLPO,2400
+2023-07-17,Mahila Lagubitta Bittiya Sanstha Limited ,MLBSL,868
+2023-07-16,Mahila Lagubitta Bittiya Sanstha Limited ,MLBSL,529
+2023-07-13,Mahila Lagubitta Bittiya Sanstha Limited ,MLBSL,1241
+2023-07-17,Mahuli Laghubitta Bittiya Sanstha Limited,MSLB,578
+2023-07-16,Mahuli Laghubitta Bittiya Sanstha Limited,MSLB,552
+2023-07-13,Mahuli Laghubitta Bittiya Sanstha Limited,MSLB,904
+2023-07-17,Mai Khola Hydropower Limited,MKHL,7159
+2023-07-16,Mai Khola Hydropower Limited,MKHL,5695
+2023-07-13,Mai Khola Hydropower Limited,MKHL,16341
+2023-07-17,Mailung Khola Jal Vidhyut Company Limited,MKJC,1318
+2023-07-16,Mailung Khola Jal Vidhyut Company Limited,MKJC,1045
+2023-07-13,Mailung Khola Jal Vidhyut Company Limited,MKJC,3469
+2023-07-17,Makar Jitumaya Suri Hydropower Limited,MAKAR,5012
+2023-07-16,Makar Jitumaya Suri Hydropower Limited,MAKAR,6195
+2023-07-13,Makar Jitumaya Suri Hydropower Limited,MAKAR,5278
+2023-07-17,Manakamana Smart Laghubitta Bittiya Sanstha Limited,MKLB,867
+2023-07-16,Manakamana Smart Laghubitta Bittiya Sanstha Limited,MKLB,449
+2023-07-13,Manakamana Smart Laghubitta Bittiya Sanstha Limited,MKLB,832
+2023-07-17,Mandakini Hydropower Limited,MHL,3350
+2023-07-16,Mandakini Hydropower Limited,MHL,3376
+2023-07-13,Mandakini Hydropower Limited,MHL,7663
+2023-07-17,Manjushree Finance Ltd.,MFIL,24932
+2023-07-16,Manjushree Finance Ltd.,MFIL,25243
+2023-07-13,Manjushree Finance Ltd.,MFIL,46673
+2023-07-17,Manushi Laghubitta Bittiya Sanstha Limited,MLBS,625
+2023-07-16,Manushi Laghubitta Bittiya Sanstha Limited,MLBS,250
+2023-07-13,Manushi Laghubitta Bittiya Sanstha Limited,MLBS,592
+2023-07-17,Maya Khola Hydropower Company Limited,MKHC,3882
+2023-07-16,Maya Khola Hydropower Company Limited,MKHC,8657
+2023-07-13,Maya Khola Hydropower Company Limited,MKHC,8800
+2023-07-17,Mega Mutual Fund -1,MMF1,64476
+2023-07-16,Mega Mutual Fund -1,MMF1,114550
+2023-07-13,Mega Mutual Fund -1,MMF1,47140
+2023-07-17,Menchhiyam Hydropower Limited,MCHL,5821
+2023-07-16,Menchhiyam Hydropower Limited,MCHL,2868
+2023-07-13,Menchhiyam Hydropower Limited,MCHL,4160
+2023-07-17,Mero Microfinance Bittiya Sanstha Ltd.,MERO,8159
+2023-07-16,Mero Microfinance Bittiya Sanstha Ltd.,MERO,2290
+2023-07-13,Mero Microfinance Bittiya Sanstha Ltd.,MERO,10478
+2023-07-17,Mirmire Laghubitta Bittya Sanstha Limited,MMFDB,1422
+2023-07-16,Mirmire Laghubitta Bittya Sanstha Limited,MMFDB,1899
+2023-07-13,Mirmire Laghubitta Bittya Sanstha Limited,MMFDB,2965
+2023-07-17,Miteri Development Bank Limited,MDB,4705
+2023-07-16,Miteri Development Bank Limited,MDB,16883
+2023-07-13,Miteri Development Bank Limited,MDB,21359
+2023-07-17,Mithila LaghuBitta Bittiya Sanstha Limited,MLBBL,529
+2023-07-16,Mithila LaghuBitta Bittiya Sanstha Limited,MLBBL,994
+2023-07-13,Mithila LaghuBitta Bittiya Sanstha Limited,MLBBL,2806
+2023-07-17,Modi Energy Limited,MEL,49975
+2023-07-16,Modi Energy Limited,MEL,44573
+2023-07-13,Modi Energy Limited,MEL,76665
+2023-07-17,Molung Hydropower Company Limited,MHCL,7510
+2023-07-16,Molung Hydropower Company Limited,MHCL,6208
+2023-07-13,Molung Hydropower Company Limited,MHCL,8373
+2023-07-17,Mountain Energy Nepal Limited,MEN,4546
+2023-07-16,Mountain Energy Nepal Limited,MEN,96749
+2023-07-13,Mountain Energy Nepal Limited,MEN,14000
+2023-07-17,Mountain Hydro Nepal Limited,MHNL,10154
+2023-07-16,Mountain Hydro Nepal Limited,MHNL,22264
+2023-07-13,Mountain Hydro Nepal Limited,MHNL,22492
+2023-07-17,Muktinath Bikas Bank Ltd.,MNBBL,58139
+2023-07-16,Muktinath Bikas Bank Ltd.,MNBBL,15296
+2023-07-13,Muktinath Bikas Bank Ltd.,MNBBL,30306
+2023-07-17,Multipurpose Finance Company  Limited,MPFL,59528
+2023-07-16,Multipurpose Finance Company  Limited,MPFL,22016
+2023-07-13,Multipurpose Finance Company  Limited,MPFL,31350
+2023-07-17,NABIL BALANCED FUND-2,NBF2,27830
+2023-07-16,NABIL BALANCED FUND-2,NBF2,43861
+2023-07-13,NABIL BALANCED FUND-2,NBF2,7975
+2023-07-17,NESDO Sambridha Laghubitta Bittiya Sanstha Limited,NESDO,3284
+2023-07-16,NESDO Sambridha Laghubitta Bittiya Sanstha Limited,NESDO,1088
+2023-07-13,NESDO Sambridha Laghubitta Bittiya Sanstha Limited,NESDO,2523
+2023-07-16,NIBL Growth Fund,NIBLGF,9000
+2023-07-13,NIBL Growth Fund,NIBLGF,1400
+2023-07-17,NIBL Pragati Fund,NIBLPF,41306
+2023-07-16,NIBL Pragati Fund,NIBLPF,36276
+2023-07-13,NIBL Pragati Fund,NIBLPF,46597
+2023-07-17,NIBL Samriddhi Fund -2,NIBSF2,1214
+2023-07-16,NIBL Samriddhi Fund -2,NIBSF2,4600
+2023-07-13,NIBL Samriddhi Fund -2,NIBSF2,63034
+2023-07-17,NIC ASIA Laghubitta Bittiya Sanstha Limited,NICLBSL,5329
+2023-07-16,NIC ASIA Laghubitta Bittiya Sanstha Limited,NICLBSL,4638
+2023-07-13,NIC ASIA Laghubitta Bittiya Sanstha Limited,NICLBSL,14696
+2023-07-17,NIC Asia Balanced Fund,NICBF,24600
+2023-07-16,NIC Asia Balanced Fund,NICBF,93800
+2023-07-13,NIC Asia Balanced Fund,NICBF,48201
+2023-07-17,NIC Asia Bank Ltd.,NICA,55849
+2023-07-16,NIC Asia Bank Ltd.,NICA,48967
+2023-07-13,NIC Asia Bank Ltd.,NICA,40669
+2023-07-16,NIC Asia Flexi CAP Fund,NICFC,1210
+2023-07-13,NIC Asia Flexi CAP Fund,NICFC,4901
+2023-07-17,NIC Asia Growth Fund,NICGF,7800
+2023-07-16,NIC Asia Growth Fund,NICGF,5900
+2023-07-13,NIC Asia Growth Fund,NICGF,30900
+2023-07-17,NIC Asia Select Fund 30,NICSF,8230
+2023-07-16,NIC Asia Select Fund 30,NICSF,158875
+2023-07-13,NIC Asia Select Fund 30,NICSF,27260
+2023-07-17,NLG Insurance Company Ltd.,NLG,18309
+2023-07-16,NLG Insurance Company Ltd.,NLG,26765
+2023-07-13,NLG Insurance Company Ltd.,NLG,41951
+2023-07-17,NMB  Microfinance Bittiya Sanstha Ltd.,NMBMF,2638
+2023-07-16,NMB  Microfinance Bittiya Sanstha Ltd.,NMBMF,1096
+2023-07-13,NMB  Microfinance Bittiya Sanstha Ltd.,NMBMF,2279
+2023-07-17,NMB 50,NMB50,2800
+2023-07-16,NMB 50,NMB50,5700
+2023-07-13,NMB 50,NMB50,80599
+2023-07-17,NMB Bank Limited,NMB,76129
+2023-07-16,NMB Bank Limited,NMB,47698
+2023-07-13,NMB Bank Limited,NMB,43973
+2023-07-17,NMB Debenture 8.50% - 2087/88,NMBD87/88,15
+2023-07-13,NMB Debenture 8.50% - 2087/88,NMBD87/88,15
+2023-07-17,NMB Hybrid Fund L-1,NMBHF1,37508
+2023-07-16,NMB Hybrid Fund L-1,NMBHF1,10952
+2023-07-13,NMB Hybrid Fund L-1,NMBHF1,34100
+2023-07-17,NMB Sulav Investment Fund - 2,NSIF2,255500
+2023-07-16,NMB Sulav Investment Fund - 2,NSIF2,1130
+2023-07-13,NMB Sulav Investment Fund - 2,NSIF2,4700
+2023-07-17,NRN Infrastructure and Development Limited,NRN,22151
+2023-07-16,NRN Infrastructure and Development Limited,NRN,20313
+2023-07-13,NRN Infrastructure and Development Limited,NRN,21461
+2023-07-17,Nabil Balanced Fund-3,NBF3,54020
+2023-07-16,Nabil Balanced Fund-3,NBF3,42890
+2023-07-13,Nabil Balanced Fund-3,NBF3,27325
+2023-07-17,Nabil Bank Limited,NABIL,73868
+2023-07-16,Nabil Bank Limited,NABIL,73028
+2023-07-13,Nabil Bank Limited,NABIL,66352
+2023-07-17,Nabil Debenture 2085,NBLD85,360
+2023-07-16,Nabil Debenture 2085,NBLD85,80
+2023-07-13,Nabil Debenture 2085,NBLD85,40
+2023-07-17,Nabil Equity Fund,NEF,7914
+2023-07-16,Nabil Equity Fund,NEF,32484
+2023-07-13,Nabil Equity Fund,NEF,18827
+2023-07-17,Nadep Laghubittiya bittya Sanstha Ltd.,NADEP,3120
+2023-07-16,Nadep Laghubittiya bittya Sanstha Ltd.,NADEP,2322
+2023-07-13,Nadep Laghubittiya bittya Sanstha Ltd.,NADEP,7338
+2023-07-17,Narayani Development Bank Limited,NABBC,1994
+2023-07-16,Narayani Development Bank Limited,NABBC,2030
+2023-07-13,Narayani Development Bank Limited,NABBC,7958
+2023-07-17,National Hydro Power Company Limited,NHPC,48939
+2023-07-16,National Hydro Power Company Limited,NHPC,39944
+2023-07-13,National Hydro Power Company Limited,NHPC,115790
+2023-07-17,National Life Insurance Co. Ltd.,NLICL,20507
+2023-07-16,National Life Insurance Co. Ltd.,NLICL,25744
+2023-07-13,National Life Insurance Co. Ltd.,NLICL,23994
+2023-07-13,National Microfinance Laghubitta Bittiya Sanstha Limited,NMFBS,1422
+2023-07-13,Naya Sarathi Laghubitta Bittiya Sanstha Limited,NSLB,588
+2023-07-17,Neco Insurance Limited,NIL,8167
+2023-07-16,Neco Insurance Limited,NIL,13904
+2023-07-13,Neco Insurance Limited,NIL,10325
+2023-07-17,Nepal Bank Limited,NBL,67976
+2023-07-16,Nepal Bank Limited,NBL,60584
+2023-07-13,Nepal Bank Limited,NBL,89055
+2023-07-17,Nepal Doorsanchar Company Limited,NTC,36302
+2023-07-16,Nepal Doorsanchar Company Limited,NTC,24783
+2023-07-13,Nepal Doorsanchar Company Limited,NTC,131115
+2023-07-17,Nepal Finance Ltd.,NFS,53039
+2023-07-16,Nepal Finance Ltd.,NFS,56821
+2023-07-13,Nepal Finance Ltd.,NFS,62073
+2023-07-17,Nepal Hydro Developers Ltd.,NHDL,3190
+2023-07-16,Nepal Hydro Developers Ltd.,NHDL,1412
+2023-07-13,Nepal Hydro Developers Ltd.,NHDL,6687
+2023-07-17,Nepal Infrastructure Bank Limited,NIFRA,201462
+2023-07-16,Nepal Infrastructure Bank Limited,NIFRA,173923
+2023-07-13,Nepal Infrastructure Bank Limited,NIFRA,121198
+2023-07-17,Nepal Insurance Co. Ltd.,NICL,22387
+2023-07-16,Nepal Insurance Co. Ltd.,NICL,33122
+2023-07-13,Nepal Insurance Co. Ltd.,NICL,18079
+2023-07-17,Nepal Investment Mega Bank Limited,NIMB,146645
+2023-07-16,Nepal Investment Mega Bank Limited,NIMB,139250
+2023-07-13,Nepal Investment Mega Bank Limited,NIMB,155129
+2023-07-17,Nepal Investment Mega Bank Ltd. Promoter Share,NIMBPO,9821
+2023-07-16,Nepal Investment Mega Bank Ltd. Promoter Share,NIMBPO,335934
+2023-07-13,Nepal Investment Mega Bank Ltd. Promoter Share,NIMBPO,18947
+2023-07-17,Nepal Life Insurance Co. Ltd.,NLIC,50533
+2023-07-16,Nepal Life Insurance Co. Ltd.,NLIC,25527
+2023-07-13,Nepal Life Insurance Co. Ltd.,NLIC,46006
+2023-07-16,Nepal Lube Oil Limited,NLO,15
+2023-07-17,Nepal Reinsurance Company Limited,NRIC,19000
+2023-07-16,Nepal Reinsurance Company Limited,NRIC,19872
+2023-07-13,Nepal Reinsurance Company Limited,NRIC,31058
+2023-07-17,Nepal SBI Bank Limited,SBI,51672
+2023-07-16,Nepal SBI Bank Limited,SBI,57178
+2023-07-13,Nepal SBI Bank Limited,SBI,49096
+2023-07-17,Nerude Laghubitta Bittiya Sanstha Limited,NLBBL,6609
+2023-07-16,Nerude Laghubitta Bittiya Sanstha Limited,NLBBL,4366
+2023-07-13,Nerude Laghubitta Bittiya Sanstha Limited,NLBBL,9637
+2023-07-17,Ngadi Group Power Ltd.,NGPL,36717
+2023-07-16,Ngadi Group Power Ltd.,NGPL,62783
+2023-07-13,Ngadi Group Power Ltd.,NGPL,117142
+2023-07-17,Nirdhan Utthan Laghubitta Bittiya Sanstha Limited,NUBL,12930
+2023-07-16,Nirdhan Utthan Laghubitta Bittiya Sanstha Limited,NUBL,15880
+2023-07-13,Nirdhan Utthan Laghubitta Bittiya Sanstha Limited,NUBL,13990
+2023-07-17,Nyadi Hydropower Limited,NYADI,2159
+2023-07-16,Nyadi Hydropower Limited,NYADI,1260
+2023-07-13,Nyadi Hydropower Limited,NYADI,7884
+2023-07-17,Oriental Hotels Limited,OHL,35319
+2023-07-16,Oriental Hotels Limited,OHL,17037
+2023-07-13,Oriental Hotels Limited,OHL,31715
+2023-07-17,Panchakanya Mai Hydropower Ltd,PMHPL,5737
+2023-07-16,Panchakanya Mai Hydropower Ltd,PMHPL,4437
+2023-07-13,Panchakanya Mai Hydropower Ltd,PMHPL,24266
+2023-07-17,Panchthar Power Compant Limited,PPCL,14626
+2023-07-16,Panchthar Power Compant Limited,PPCL,13412
+2023-07-13,Panchthar Power Compant Limited,PPCL,64310
+2023-07-17,People's Power Limited,PPL,5150
+2023-07-16,People's Power Limited,PPL,7359
+2023-07-13,People's Power Limited,PPL,8984
+2023-07-17,Peoples Hydropower Company Limited,PHCL,17220
+2023-07-16,Peoples Hydropower Company Limited,PHCL,13150
+2023-07-13,Peoples Hydropower Company Limited,PHCL,73744
+2023-07-17,Pokhara Finance Ltd.,PFL,16461
+2023-07-16,Pokhara Finance Ltd.,PFL,6272
+2023-07-13,Pokhara Finance Ltd.,PFL,23978
+2023-07-17,Prabhu  Bank Limited,PRVU,161071
+2023-07-16,Prabhu  Bank Limited,PRVU,136478
+2023-07-13,Prabhu  Bank Limited,PRVU,183895
+2023-07-16,Prabhu  Bank Limited Promoter Share,PRVUPO,137900
+2023-07-13,Prabhu  Bank Limited Promoter Share,PRVUPO,156490
+2023-07-17,Prabhu Insurance Ltd.,PRIN,38862
+2023-07-16,Prabhu Insurance Ltd.,PRIN,34501
+2023-07-13,Prabhu Insurance Ltd.,PRIN,22531
+2023-07-13,Prabhu Life Insurance Limited,PLI,28431
+2023-07-17,Prabhu Select Fund,PSF,63880
+2023-07-16,Prabhu Select Fund,PSF,75000
+2023-07-13,Prabhu Select Fund,PSF,236582
+2023-07-17,Prabhu Smart Fund,PRSF,312800
+2023-07-16,Prabhu Smart Fund,PRSF,102900
+2023-07-13,Prabhu Smart Fund,PRSF,34900
+2023-07-17,Prime Commercial Bank Ltd.,PCBL,85478
+2023-07-16,Prime Commercial Bank Ltd.,PCBL,76059
+2023-07-13,Prime Commercial Bank Ltd.,PCBL,50993
+2023-07-13,Prime Commercial Bank Promoter Share,PCBLP,25000
+2023-07-17,Progressive Finance Limited,PROFL,56562
+2023-07-16,Progressive Finance Limited,PROFL,38369
+2023-07-13,Progressive Finance Limited,PROFL,55692
+2023-07-17,RASUWAGADHI HYDROPOWER COMPANY LIMITED,RHPL,9777
+2023-07-16,RASUWAGADHI HYDROPOWER COMPANY LIMITED,RHPL,13575
+2023-07-13,RASUWAGADHI HYDROPOWER COMPANY LIMITED,RHPL,32350
+2023-07-17,RBB Mutual Fund 1,RMF1,264500
+2023-07-16,RBB Mutual Fund 1,RMF1,56450
+2023-07-13,RBB Mutual Fund 1,RMF1,64649
+2023-07-17,RSDC Laghubitta Bittiya Sanstha Ltd.,RSDC,23398
+2023-07-16,RSDC Laghubitta Bittiya Sanstha Ltd.,RSDC,5263
+2023-07-13,RSDC Laghubitta Bittiya Sanstha Ltd.,RSDC,12199
+2023-07-17,Radhi Bidyut Company Ltd,RADHI,18806
+2023-07-16,Radhi Bidyut Company Ltd,RADHI,33294
+2023-07-13,Radhi Bidyut Company Ltd,RADHI,85622
+2023-07-17,Rapti Hydro And General Construction Limited,RHGCL,11362
+2023-07-16,Rapti Hydro And General Construction Limited,RHGCL,5602
+2023-07-13,Rapti Hydro And General Construction Limited,RHGCL,11486
+2023-07-13,Rastra Utthan Laghubitta Sanstha Limited,RULB,3395
+2023-07-17,Rastriya Beema Company Limited,RBCL,1167
+2023-07-16,Rastriya Beema Company Limited,RBCL,1040
+2023-07-13,Rastriya Beema Company Limited,RBCL,679
+2023-07-16,Rastriya Beema Company Limited Promoter Share,RBCLPO,2632
+2023-07-13,Rastriya Beema Company Limited Promoter Share,RBCLPO,2055
+2023-07-17,Rawa Energy Development Limited,RAWA,8094
+2023-07-16,Rawa Energy Development Limited,RAWA,11229
+2023-07-13,Rawa Energy Development Limited,RAWA,18418
+2023-07-17,Reliance Finance Ltd.,RLFL,51459
+2023-07-16,Reliance Finance Ltd.,RLFL,57533
+2023-07-13,Reliance Finance Ltd.,RLFL,54182
+2023-07-13,Reliance Finance Ltd. Promoter Share,RLFLPO,20656
+2023-07-17,Ridi Power Company Limited,RIDI,23132
+2023-07-16,Ridi Power Company Limited,RIDI,30877
+2023-07-13,Ridi Power Company Limited,RIDI,80914
+2023-07-17,River Falls Power Limited,RFPL,9805
+2023-07-16,River Falls Power Limited,RFPL,4165
+2023-07-13,River Falls Power Limited,RFPL,9737
+2023-07-17,Ru Ru Jalbidhyut Pariyojana Limited,RURU,636
+2023-07-16,Ru Ru Jalbidhyut Pariyojana Limited,RURU,86
+2023-07-13,Ru Ru Jalbidhyut Pariyojana Limited,RURU,895
+2023-07-17,SANJEN JALAVIDHYUT COMPANY LIMITED,SJCL,12284
+2023-07-16,SANJEN JALAVIDHYUT COMPANY LIMITED,SJCL,8621
+2023-07-13,SANJEN JALAVIDHYUT COMPANY LIMITED,SJCL,23675
+2023-07-17,SHIVAM CEMENTS LTD,SHIVM,226815
+2023-07-16,SHIVAM CEMENTS LTD,SHIVM,292584
+2023-07-13,SHIVAM CEMENTS LTD,SHIVM,357310
+2023-07-17,Sabaiko Laghubitta Bittiya Sanstha Limited,SABSL,572
+2023-07-16,Sabaiko Laghubitta Bittiya Sanstha Limited,SABSL,661
+2023-07-13,Sabaiko Laghubitta Bittiya Sanstha Limited,SABSL,2726
+2023-07-17,Sadhana Laghubitta Bittiya Sanstha Limited,SDLBSL,469
+2023-07-16,Sadhana Laghubitta Bittiya Sanstha Limited,SDLBSL,224
+2023-07-13,Sadhana Laghubitta Bittiya Sanstha Limited,SDLBSL,488
+2023-07-17,Sagarmatha Jalabidhyut Company Limited,SMJC,13214
+2023-07-16,Sagarmatha Jalabidhyut Company Limited,SMJC,11297
+2023-07-13,Sagarmatha Jalabidhyut Company Limited,SMJC,24484
+2023-07-17,Sagarmatha Lumbini Insurance Co. Limited,SALICO,20219
+2023-07-16,Sagarmatha Lumbini Insurance Co. Limited,SALICO,16740
+2023-07-13,Sagarmatha Lumbini Insurance Co. Limited,SALICO,34844
+2023-07-17,Sahas Urja Limited,SAHAS,7467
+2023-07-16,Sahas Urja Limited,SAHAS,7935
+2023-07-13,Sahas Urja Limited,SAHAS,16411
+2023-07-17,Salt Trading Corporation,STC,1286
+2023-07-16,Salt Trading Corporation,STC,3939
+2023-07-13,Salt Trading Corporation,STC,950
+2023-07-17,Samaj Laghubittya Bittiya Sanstha Limited,SAMAJ,21
+2023-07-17,Samata Gharelu Laghubitta Bittiya Sanstha Limited,SMATA,1709
+2023-07-16,Samata Gharelu Laghubitta Bittiya Sanstha Limited,SMATA,1191
+2023-07-13,Samata Gharelu Laghubitta Bittiya Sanstha Limited,SMATA,1774
+2023-07-17,Samling Power Company Limited,SPC,940
+2023-07-16,Samling Power Company Limited,SPC,370
+2023-07-13,Samling Power Company Limited,SPC,2386
+2023-07-17,Samriddhi Finance Company Limited,SFCL,34471
+2023-07-16,Samriddhi Finance Company Limited,SFCL,19803
+2023-07-13,Samriddhi Finance Company Limited,SFCL,53356
+2023-07-17,Samudayik Laghubitta Bittiya Sanstha Limited,SLBSL,258
+2023-07-16,Samudayik Laghubitta Bittiya Sanstha Limited,SLBSL,43
+2023-07-13,Samudayik Laghubitta Bittiya Sanstha Limited,SLBSL,182
+2023-07-17,Sanima Bank Limited,SANIMA,147938
+2023-07-16,Sanima Bank Limited,SANIMA,35482
+2023-07-13,Sanima Bank Limited,SANIMA,149038
+2023-07-17,Sanima Equity Fund,SAEF,16325
+2023-07-16,Sanima Equity Fund,SAEF,48500
+2023-07-13,Sanima Equity Fund,SAEF,61650
+2023-07-17,Sanima GIC Insurance Limited,SGIC,12171
+2023-07-16,Sanima GIC Insurance Limited,SGIC,19604
+2023-07-13,Sanima GIC Insurance Limited,SGIC,21509
+2023-07-17,Sanima Growth Fund,SAGF,1755
+2023-07-16,Sanima Growth Fund,SAGF,14370
+2023-07-13,Sanima Growth Fund,SAGF,2700
+2023-07-17,Sanima Large Cap Fund,SLCF,1100
+2023-07-16,Sanima Large Cap Fund,SLCF,72307
+2023-07-13,Sanima Large Cap Fund,SLCF,10300
+2023-07-17,Sanima Mai Hydropower Ltd.,SHPC,35510
+2023-07-16,Sanima Mai Hydropower Ltd.,SHPC,40114
+2023-07-13,Sanima Mai Hydropower Ltd.,SHPC,75121
+2023-07-17,Sanima Middle Tamor Hydropower Limited,TAMOR,14446
+2023-07-16,Sanima Middle Tamor Hydropower Limited,TAMOR,12395
+2023-07-13,Sanima Middle Tamor Hydropower Limited,TAMOR,25252
+2023-07-17,Sanima Reliance Life Insurance Limited,SRLI,35502
+2023-07-16,Sanima Reliance Life Insurance Limited,SRLI,21147
+2023-07-13,Sanima Reliance Life Insurance Limited,SRLI,39668
+2023-07-17,Saptakoshi Development Bank Ltd,SAPDBL,12688
+2023-07-16,Saptakoshi Development Bank Ltd,SAPDBL,7874
+2023-07-13,Saptakoshi Development Bank Ltd,SAPDBL,16044
+2023-07-17,Sayapatri Hydropower Limited,SPHL,1820
+2023-07-16,Sayapatri Hydropower Limited,SPHL,440
+2023-07-13,Sayapatri Hydropower Limited,SPHL,2640
+2023-07-16,Shangri-la Development Bank Debenture 2087,SDBD87,10
+2023-07-13,Shangri-la Development Bank Debenture 2087,SDBD87,50
+2023-07-17,Shangrila Development Bank Ltd.,SADBL,123501
+2023-07-16,Shangrila Development Bank Ltd.,SADBL,31223
+2023-07-13,Shangrila Development Bank Ltd.,SADBL,56565
+2023-07-17,Shikhar Insurance Co. Ltd.,SICL,16907
+2023-07-16,Shikhar Insurance Co. Ltd.,SICL,20265
+2023-07-13,Shikhar Insurance Co. Ltd.,SICL,19035
+2023-07-17,Shine Resunga Development Bank Ltd.,SHINE,193427
+2023-07-16,Shine Resunga Development Bank Ltd.,SHINE,45930
+2023-07-13,Shine Resunga Development Bank Ltd.,SHINE,95293
+2023-07-17,Shiva Shree Hydropower Ltd,SSHL,56574
+2023-07-16,Shiva Shree Hydropower Ltd,SSHL,71274
+2023-07-13,Shiva Shree Hydropower Ltd,SSHL,137225
+2023-07-17,Shree Investment Finance Co. Ltd.,SIFC,20421
+2023-07-16,Shree Investment Finance Co. Ltd.,SIFC,11456
+2023-07-13,Shree Investment Finance Co. Ltd.,SIFC,29961
+2023-07-17,Shrijanshil Laghubitta Bittiya Sanstha Limited,SHLB,2562
+2023-07-16,Shrijanshil Laghubitta Bittiya Sanstha Limited,SHLB,2299
+2023-07-13,Shrijanshil Laghubitta Bittiya Sanstha Limited,SHLB,2194
+2023-07-17,Shuvam Power Limited,SPL,4029
+2023-07-16,Shuvam Power Limited,SPL,6348
+2023-07-13,Shuvam Power Limited,SPL,5845
+2023-07-17,Siddhartha Bank Limited,SBL,93155
+2023-07-16,Siddhartha Bank Limited,SBL,94754
+2023-07-13,Siddhartha Bank Limited,SBL,29048
+2023-07-17,Siddhartha Equity Fund,SEF,5500
+2023-07-16,Siddhartha Equity Fund,SEF,1800
+2023-07-13,Siddhartha Equity Fund,SEF,24601
+2023-07-17,Siddhartha Investment Growth Scheme - 2,SIGS2,41200
+2023-07-16,Siddhartha Investment Growth Scheme - 2,SIGS2,16385
+2023-07-13,Siddhartha Investment Growth Scheme - 2,SIGS2,93300
+2023-07-17,Siddhartha Premier Insurance Limited,SPIL,44388
+2023-07-16,Siddhartha Premier Insurance Limited,SPIL,26888
+2023-07-13,Siddhartha Premier Insurance Limited,SPIL,67669
+2023-07-17,Sikles Hydropower Limited,SIKLES,2630
+2023-07-16,Sikles Hydropower Limited,SIKLES,1190
+2023-07-13,Sikles Hydropower Limited,SIKLES,3830
+2023-07-17,Sindhu Bikash Bank Ltd,SINDU,11106
+2023-07-16,Sindhu Bikash Bank Ltd,SINDU,5718
+2023-07-13,Sindhu Bikash Bank Ltd,SINDU,15928
+2023-07-17,Singati Hydro Energy Limited,SHEL,3388
+2023-07-16,Singati Hydro Energy Limited,SHEL,1573
+2023-07-13,Singati Hydro Energy Limited,SHEL,4689
+2023-07-17,Soaltee Hotel Limited,SHL,157729
+2023-07-16,Soaltee Hotel Limited,SHL,111915
+2023-07-13,Soaltee Hotel Limited,SHL,364928
+2023-07-17,Standard Chartered Bank Limited,SCB,23601
+2023-07-16,Standard Chartered Bank Limited,SCB,20851
+2023-07-13,Standard Chartered Bank Limited,SCB,13008
+2023-07-13,Summit Laghubitta Bittiya Sanstha Limited,SMFDB,2606
+2023-07-13,Sunrise Bank Limited,SRBL,44618
+2023-07-17,Sunrise Bluechip Fund,SBCF,2400
+2023-07-16,Sunrise Bluechip Fund,SBCF,88414
+2023-07-13,Sunrise Bluechip Fund,SBCF,33151
+2023-07-17,Sunrise First Mutual Fund,SFMF,12700
+2023-07-16,Sunrise First Mutual Fund,SFMF,9100
+2023-07-13,Sunrise First Mutual Fund,SFMF,17500
+2023-07-17,Sunrise Focused Equity Fund,SFEF,101999
+2023-07-16,Sunrise Focused Equity Fund,SFEF,8325
+2023-07-13,Sunrise Focused Equity Fund,SFEF,19046
+2023-07-17,Super Madi Hydropower Limited,SMHL,5015
+2023-07-16,Super Madi Hydropower Limited,SMHL,6252
+2023-07-13,Super Madi Hydropower Limited,SMHL,6190
+2023-07-17,Super Mai Hydropower Limited,SMH,1545
+2023-07-16,Super Mai Hydropower Limited,SMH,4768
+2023-07-13,Super Mai Hydropower Limited,SMH,5883
+2023-07-17,Support Microfinance Bittiya Sanstha Ltd.,SMB,245
+2023-07-16,Support Microfinance Bittiya Sanstha Ltd.,SMB,45
+2023-07-13,Support Microfinance Bittiya Sanstha Ltd.,SMB,506
+2023-07-17,SuryaJyoti Life Insurance Company Limited,SJLIC,42837
+2023-07-16,SuryaJyoti Life Insurance Company Limited,SJLIC,42814
+2023-07-13,SuryaJyoti Life Insurance Company Limited,SJLIC,58784
+2023-07-17,Suryodaya Womi Laghubitta Bittiya Sanstha Limited,SWMF,4890
+2023-07-16,Suryodaya Womi Laghubitta Bittiya Sanstha Limited,SWMF,4487
+2023-07-13,Suryodaya Womi Laghubitta Bittiya Sanstha Limited,SWMF,3891
+2023-07-17,Swabalamban Laghubitta Bittiya Sanstha Limited,SWBBL,35663
+2023-07-16,Swabalamban Laghubitta Bittiya Sanstha Limited,SWBBL,22109
+2023-07-13,Swabalamban Laghubitta Bittiya Sanstha Limited,SWBBL,9755
+2023-07-17,Swabhimaan Laghubitta Bittiya Sanstha Limited,SMFBS,464
+2023-07-16,Swabhimaan Laghubitta Bittiya Sanstha Limited,SMFBS,383
+2023-07-13,Swabhimaan Laghubitta Bittiya Sanstha Limited,SMFBS,822
+2023-07-17,Swarojgar Laghu Bitta Bikas Bank Ltd.,SLBBL,7365
+2023-07-16,Swarojgar Laghu Bitta Bikas Bank Ltd.,SLBBL,4968
+2023-07-13,Swarojgar Laghu Bitta Bikas Bank Ltd.,SLBBL,10494
+2023-07-17,Swet-Ganga Hydropower & Construction Limited ,SGHC,6305
+2023-07-16,Swet-Ganga Hydropower & Construction Limited ,SGHC,7796
+2023-07-13,Swet-Ganga Hydropower & Construction Limited ,SGHC,10100
+2023-07-17,Synergy Power Development Ltd.,SPDL,16805
+2023-07-16,Synergy Power Development Ltd.,SPDL,11513
+2023-07-13,Synergy Power Development Ltd.,SPDL,37502
+2023-07-17,Taragaon Regency Hotel Limited,TRH,40658
+2023-07-16,Taragaon Regency Hotel Limited,TRH,19402
+2023-07-13,Taragaon Regency Hotel Limited,TRH,32353
+2023-07-17,Terhathum Power Company Limited,TPC,2338
+2023-07-16,Terhathum Power Company Limited,TPC,448
+2023-07-13,Terhathum Power Company Limited,TPC,4641
+2023-07-17,UNIVERSAL POWER COMPANY LTD,UPCL,52527
+2023-07-16,UNIVERSAL POWER COMPANY LTD,UPCL,35807
+2023-07-13,UNIVERSAL POWER COMPANY LTD,UPCL,88875
+2023-07-17,Unilever Nepal Limited,UNL,338
+2023-07-16,Unilever Nepal Limited,UNL,40
+2023-07-13,Unilever Nepal Limited,UNL,110
+2023-07-17,Union Hydropower Limited,UNHPL,21660
+2023-07-16,Union Hydropower Limited,UNHPL,16431
+2023-07-13,Union Hydropower Limited,UNHPL,19912
+2023-07-17,Unique Nepal Laghubitta Bittiya Sanstha Limited,UNLB,1325
+2023-07-16,Unique Nepal Laghubitta Bittiya Sanstha Limited,UNLB,1550
+2023-07-13,Unique Nepal Laghubitta Bittiya Sanstha Limited,UNLB,2782
+2023-07-17,United Ajod Insurance Limited,UAIL,2554
+2023-07-17,United IDI Mardi RB Hydropower Limited.,UMRH,2631
+2023-07-16,United IDI Mardi RB Hydropower Limited.,UMRH,1220
+2023-07-13,United IDI Mardi RB Hydropower Limited.,UMRH,4606
+2023-07-17,United Modi Hydropower Ltd.,UMHL,20994
+2023-07-16,United Modi Hydropower Ltd.,UMHL,27921
+2023-07-13,United Modi Hydropower Ltd.,UMHL,34090
+2023-07-17,Unnati Sahakarya Laghubitta Bittiya Sanstha Limited,USLB,313
+2023-07-16,Unnati Sahakarya Laghubitta Bittiya Sanstha Limited,USLB,210
+2023-07-13,Unnati Sahakarya Laghubitta Bittiya Sanstha Limited,USLB,314
+2023-07-17,Upakar Laghubitta Bittiya Sanstha Limited,ULBSL,389
+2023-07-16,Upakar Laghubitta Bittiya Sanstha Limited,ULBSL,663
+2023-07-13,Upakar Laghubitta Bittiya Sanstha Limited,ULBSL,3031
+2023-07-17,Upper Hewakhola Hydropower Company Limited,UHEWA,4800
+2023-07-16,Upper Hewakhola Hydropower Company Limited,UHEWA,4095
+2023-07-13,Upper Hewakhola Hydropower Company Limited,UHEWA,9561
+2023-07-17,Upper Solu Hydro Electric Company Limited,USHEC,2375
+2023-07-16,Upper Solu Hydro Electric Company Limited,USHEC,2615
+2023-07-13,Upper Solu Hydro Electric Company Limited,USHEC,6176
+2023-07-17,Upper Tamakoshi Hydropower Ltd,UPPER,26648
+2023-07-16,Upper Tamakoshi Hydropower Ltd,UPPER,38936
+2023-07-13,Upper Tamakoshi Hydropower Ltd,UPPER,78050
+2023-07-13,Vijaya laghubitta Bittiya Sanstha Ltd.,VLBS,1820
+2023-07-17,Wean Nepal Laghubitta Bittiya Sanstha Limited,WNLB,271
+2023-07-16,Wean Nepal Laghubitta Bittiya Sanstha Limited,WNLB,40
+2023-07-13,Wean Nepal Laghubitta Bittiya Sanstha Limited,WNLB,360

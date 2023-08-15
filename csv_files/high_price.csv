@@ -1,0 +1,838 @@
+BUSINESS_DATE,SECURITY_NAME,SYMBOL,HIGH_PRICE
+2023-07-16,10 % NMB DEBENTURE 2085,NMBD2085,1001.0
+2023-07-13,10 % NMB DEBENTURE 2085,NMBD2085,987.4
+2023-07-16,10% Laxmi Bank Debenture 2086,LBLD86,972.7
+2023-07-13,10% Laxmi Bank Debenture 2086,LBLD86,953.7
+2023-07-16,10% Nabil Debenture 2082,NBLD82,1010.0
+2023-07-13,10% Nabil Debenture 2082,NBLD82,990.4
+2023-07-13,10% Nepal SBI Bank Debenture 2086,SBIBD86,965.8
+2023-07-16,10% Prabhu Bank Debenture 2084 ,PBLD84,1090.8
+2023-07-13,10% Prabhu Bank Debenture 2084 ,PBLD84,1069.5
+2023-07-17,10% Prime Debenture 2088,PBD88,931.0
+2023-07-16,10% Prime Debenture 2088,PBD88,988.0
+2023-07-13,10% Prime Debenture 2088,PBD88,968.9
+2023-07-16,10% Sanima Bank Limited Debenture,SAND2085,1130.8
+2023-07-13,10% Sunrise Debenture 2080,SRD80,1020.0
+2023-07-13,10.25% GLOBAL IME BANK LTD. DEBENTURE 2080/81,GBD80/81,1075.0
+2023-07-17,10.25% KBL Debenture 2086,KBLD86,1084.4
+2023-07-16,10.25% Machhapuchhre Bank Debenture 2085,MBLD2085,1116.0
+2023-07-16,10.25% NBBL Debenture 2085,NBBD2085,1252.1
+2023-07-13,10.25% NBBL Debenture 2085,NBBD2085,1158.7
+2023-07-16,10.25% NIC Asia Debenture 2083/84,NICD83/84,1097.5
+2023-07-13,10.25% NIC Asia Debenture 2083/84,NICD83/84,1090.0
+2023-07-16,10.25% Nepal SBI Bank Debenture 2083,SBID83,1000.0
+2023-07-16,10.25% Prabhu Bank  Debenture 2086,PBLD86,979.0
+2023-07-13,10.25% SBL Debenture 2083,SBLD83,1098.5
+2023-07-13,10.25% Sunrise Bank Debenture 2083,SRBLD83,1070.0
+2023-07-16,10.35% Agricultural Bank Debenture 2083,ADBLD83,1123.0
+2023-07-13,10.35% Agricultural Bank Debenture 2083,ADBLD83,1074.0
+2023-07-16,10.5 % NEPAL INVESTMENT DEBENTURE 2082,NIBD2082,1044.0
+2023-07-13,10.5 % NEPAL INVESTMENT DEBENTURE 2082,NIBD2082,1030.0
+2023-07-16,10.50% SBL Debenture 2082,SBLD2082,1060.2
+2023-07-13,10.50% SBL Debenture 2082,SBLD2082,1019.2
+2023-07-16,11% NIC Asia Debenture 082/83,NICAD8283,1170.0
+2023-07-13,11% NIC Asia Debenture 082/83,NICAD8283,1099.0
+2023-07-16,12 % Goodwill Finance Limited Debenture 2083,GWFD83,1132.2
+2023-07-13,12 % Goodwill Finance Limited Debenture 2083,GWFD83,1110.0
+2023-07-16,12% ICFC Finance Limited Debenture 2083,ICFCD83,1186.0
+2023-07-13,12% ICFC Finance Limited Debenture 2083,ICFCD83,1146.9
+2023-07-17,8.5% BOK Debenture 2086,BOKD86,842.3
+2023-07-16,8.5% BOK Debenture 2086,BOKD86,859.4
+2023-07-16,8.5% Laxmi Bank Debenture 2088,LBLD88,818.0
+2023-07-13,8.5% Nepal Bank Debenture 2087,NBLD87,869.0
+2023-07-17,8.5% Nepal Investment Bank Debenture 2084,NIBD84,847.7
+2023-07-16,8.5% Nepal Investment Bank Debenture 2084,NIBD84,865.0
+2023-07-13,8.5% Nepal Investment Bank Debenture 2084,NIBD84,865.0
+2023-07-16,8.5% Prabhu Bank Debenture 2087,PBLD87,809.7
+2023-07-13,8.5% Prabhu Bank Debenture 2087,PBLD87,793.9
+2023-07-17,8.5% SBL Debenture 2084,SBLD84,862.4
+2023-07-16,8.5% Sanima Debenture 2087,SBD87,857.9
+2023-07-13,8.5% Sanima Debenture 2087,SBD87,845.0
+2023-07-16,9.5% Manjushree Finance Limited Debenture 2085,MFLD85,994.7
+2023-07-13,9.5% Manjushree Finance Limited Debenture 2085,MFLD85,1015.0
+2023-07-17,Aarambha Chautari Laghubitta Bittiya Sanstha Limited,ACLBSL,676.0
+2023-07-16,Aarambha Chautari Laghubitta Bittiya Sanstha Limited,ACLBSL,656.0
+2023-07-13,Aarambha Chautari Laghubitta Bittiya Sanstha Limited,ACLBSL,680.0
+2023-07-17,Aatmanirbhar Laghubitta Bittiya Sanstha Limited,ANLB,2405.0
+2023-07-16,Aatmanirbhar Laghubitta Bittiya Sanstha Limited,ANLB,2429.9
+2023-07-13,Aatmanirbhar Laghubitta Bittiya Sanstha Limited,ANLB,2440.0
+2023-07-17,Agricultural Development Bank Limited,ADBL,240.7
+2023-07-16,Agricultural Development Bank Limited,ADBL,234.0
+2023-07-13,Agricultural Development Bank Limited,ADBL,232.5
+2023-07-17,Ankhu Khola Jalvidhyut Company Ltd,AKJCL,198.0
+2023-07-16,Ankhu Khola Jalvidhyut Company Ltd,AKJCL,198.9
+2023-07-13,Ankhu Khola Jalvidhyut Company Ltd,AKJCL,209.9
+2023-07-17,Api Power Company Ltd.,API,202.9
+2023-07-16,Api Power Company Ltd.,API,202.0
+2023-07-13,Api Power Company Ltd.,API,210.0
+2023-07-17,Arun Kabeli Power Ltd.,AKPL,236.8
+2023-07-16,Arun Kabeli Power Ltd.,AKPL,242.0
+2023-07-13,Arun Kabeli Power Ltd.,AKPL,254.0
+2023-07-17,Arun Valley Hydropower Development Co. Ltd.,AHPC,262.0
+2023-07-16,Arun Valley Hydropower Development Co. Ltd.,AHPC,263.5
+2023-07-13,Arun Valley Hydropower Development Co. Ltd.,AHPC,274.3
+2023-07-17,Asha Laghubitta Bittiya Sanstha Ltd,ALBSL,800.0
+2023-07-16,Asha Laghubitta Bittiya Sanstha Ltd,ALBSL,788.0
+2023-07-13,Asha Laghubitta Bittiya Sanstha Ltd,ALBSL,802.0
+2023-07-17,Asian Hydropower Limited,AHL,349.7
+2023-07-16,Asian Hydropower Limited,AHL,337.9
+2023-07-13,Asian Hydropower Limited,AHL,349.9
+2023-07-17,Asian Life Insurance Co. Limited,ALICL,765.9
+2023-07-16,Asian Life Insurance Co. Limited,ALICL,769.0
+2023-07-13,Asian Life Insurance Co. Limited,ALICL,783.9
+2023-07-17,Aviyan Laghubitta Bittiya Sanstha Limited,AVYAN,768.0
+2023-07-16,Aviyan Laghubitta Bittiya Sanstha Limited,AVYAN,704.1
+2023-07-13,Aviyan Laghubitta Bittiya Sanstha Limited,AVYAN,756.0
+2023-07-17,BPW Laghubitta Bittiya Sanstha Limited,BPW,1232.0
+2023-07-16,BPW Laghubitta Bittiya Sanstha Limited,BPW,1135.0
+2023-07-13,BPW Laghubitta Bittiya Sanstha Limited,BPW,1182.0
+2023-07-17,Balephi Hydropower Limited,BHL,265.0
+2023-07-16,Balephi Hydropower Limited,BHL,265.2
+2023-07-13,Balephi Hydropower Limited,BHL,277.4
+2023-07-17,Barahi Hydropower Public Limited,BHPL,463.5
+2023-07-16,Barahi Hydropower Public Limited,BHPL,458.8
+2023-07-13,Barahi Hydropower Public Limited,BHPL,465.0
+2023-07-17,Barun Hydropower Co. Ltd.,BARUN,258.9
+2023-07-16,Barun Hydropower Co. Ltd.,BARUN,253.4
+2023-07-13,Barun Hydropower Co. Ltd.,BARUN,260.0
+2023-07-17,Best Finance Company Ltd.,BFC,366.0
+2023-07-16,Best Finance Company Ltd.,BFC,360.8
+2023-07-13,Best Finance Company Ltd.,BFC,369.2
+2023-07-17,Bhugol Energy Development Company Limited,BEDC,238.7
+2023-07-16,Bhugol Energy Development Company Limited,BEDC,232.2
+2023-07-13,Bhugol Energy Development Company Limited,BEDC,244.9
+2023-07-17,Bindhyabasini Hydropower Development Company Limited,BHDC,389.9
+2023-07-16,Bindhyabasini Hydropower Development Company Limited,BHDC,392.0
+2023-07-13,Bindhyabasini Hydropower Development Company Limited,BHDC,399.0
+2023-07-17,Bishal Bazar Company Limited,BBC,3487.0
+2023-07-16,Bishal Bazar Company Limited,BBC,3478.3
+2023-07-13,Bishal Bazar Company Limited,BBC,3465.0
+2023-07-17,Bottlers Nepal (Terai) Limited,BNT,14000.0
+2023-07-13,Bottlers Nepal (Terai) Limited,BNT,14000.0
+2023-07-17,Buddha Bhumi Nepal Hydropower Company Limited,BNHC,341.5
+2023-07-16,Buddha Bhumi Nepal Hydropower Company Limited,BNHC,335.0
+2023-07-13,Buddha Bhumi Nepal Hydropower Company Limited,BNHC,339.9
+2023-07-17,Butwal Power Company Limited,BPCL,334.0
+2023-07-16,Butwal Power Company Limited,BPCL,330.5
+2023-07-13,Butwal Power Company Limited,BPCL,341.0
+2023-07-17,CEDB Hydropower Development Company Limited,CHDC,928.0
+2023-07-16,CEDB Hydropower Development Company Limited,CHDC,910.0
+2023-07-13,CEDB Hydropower Development Company Limited,CHDC,927.1
+2023-07-16,CITIZENS MUTUAL FUND 2,CMF2,10.39
+2023-07-13,CITIZENS MUTUAL FUND 2,CMF2,9.46
+2023-07-17,CYC Nepal Laghubitta Bittiya Sanstha Limited,CYCL,1520.0
+2023-07-16,CYC Nepal Laghubitta Bittiya Sanstha Limited,CYCL,1410.0
+2023-07-13,CYC Nepal Laghubitta Bittiya Sanstha Limited,CYCL,1346.0
+2023-07-17,Central Finance Co. Ltd.,CFCL,410.0
+2023-07-16,Central Finance Co. Ltd.,CFCL,397.9
+2023-07-13,Central Finance Co. Ltd.,CFCL,406.0
+2023-07-16,Century Debenture 2088,CCBD88,1022.9
+2023-07-13,Century Debenture 2088,CCBD88,1022.8
+2023-07-17,Chandragiri Hills Limited,CGH,1327.0
+2023-07-16,Chandragiri Hills Limited,CGH,1300.0
+2023-07-13,Chandragiri Hills Limited,CGH,1313.0
+2023-07-17,Chhimek Laghubitta Bittiya Sanstha Limited,CBBL,1012.0
+2023-07-16,Chhimek Laghubitta Bittiya Sanstha Limited,CBBL,1000.0
+2023-07-13,Chhimek Laghubitta Bittiya Sanstha Limited,CBBL,1000.0
+2023-07-17,Chhyangdi Hydropower Ltd.,CHL,271.0
+2023-07-16,Chhyangdi Hydropower Ltd.,CHL,270.0
+2023-07-13,Chhyangdi Hydropower Ltd.,CHL,282.0
+2023-07-17,Chilime Hydropower Company Limited,CHCL,546.0
+2023-07-16,Chilime Hydropower Company Limited,CHCL,548.0
+2023-07-13,Chilime Hydropower Company Limited,CHCL,552.0
+2023-07-17,Citizen Investment Trust,CIT,2121.9
+2023-07-16,Citizen Investment Trust,CIT,2115.0
+2023-07-13,Citizen Investment Trust,CIT,2147.0
+2023-07-17,Citizens Bank International Limited,CZBIL,178.2
+2023-07-16,Citizens Bank International Limited,CZBIL,173.1
+2023-07-13,Citizens Bank International Limited,CZBIL,173.0
+2023-07-17,Citizens Mutual Fund -1,CMF1,9.2
+2023-07-16,Citizens Mutual Fund -1,CMF1,9.4
+2023-07-13,Citizens Mutual Fund -1,CMF1,9.34
+2023-07-17,City Hotel Limited,CITY,701.7
+2023-07-16,City Hotel Limited,CITY,710.0
+2023-07-13,City Hotel Limited,CITY,725.0
+2023-07-16,Civil Bank Debenture 2088,CBLD88,1003.6
+2023-07-13,Civil Bank Debenture 2088,CBLD88,1024.0
+2023-07-17,Civil Laghubitta Bittiya Sanstha Ltd.,CLBSL,790.0
+2023-07-16,Civil Laghubitta Bittiya Sanstha Ltd.,CLBSL,779.0
+2023-07-13,Civil Laghubitta Bittiya Sanstha Ltd.,CLBSL,779.8
+2023-07-17,Corporate Development Bank Limited,CORBL,371.0
+2023-07-16,Corporate Development Bank Limited,CORBL,377.0
+2023-07-13,Corporate Development Bank Limited,CORBL,392.1
+2023-07-13,Deprosc LaghuBitta Promoter Share,DDBLPO,440.0
+2023-07-17,Deprosc Laghubitta Bittiya Sanstha Limited,DDBL,841.0
+2023-07-16,Deprosc Laghubitta Bittiya Sanstha Limited,DDBL,840.0
+2023-07-13,Deprosc Laghubitta Bittiya Sanstha Limited,DDBL,836.0
+2023-07-17,Dibyashwori Hydropower Ltd.,DHPL,190.0
+2023-07-16,Dibyashwori Hydropower Ltd.,DHPL,188.5
+2023-07-13,Dibyashwori Hydropower Ltd.,DHPL,201.7
+2023-07-17,Dolti Power Company Limited,DOLTI,233.0
+2023-07-16,Dolti Power Company Limited,DOLTI,234.0
+2023-07-13,Dolti Power Company Limited,DOLTI,246.6
+2023-07-17,Dordi Khola Jal Bidyut Company Limited,DORDI,249.9
+2023-07-16,Dordi Khola Jal Bidyut Company Limited,DORDI,245.0
+2023-07-13,Dordi Khola Jal Bidyut Company Limited,DORDI,259.0
+2023-07-17,Eastern Hydropower Limited,EHPL,330.0
+2023-07-16,Eastern Hydropower Limited,EHPL,324.2
+2023-07-13,Eastern Hydropower Limited,EHPL,329.3
+2023-07-17,Emerging Nepal Limited,ENL,715.0
+2023-07-16,Emerging Nepal Limited,ENL,719.1
+2023-07-13,Emerging Nepal Limited,ENL,725.0
+2023-07-17,Everest Bank Limited,EBL,581.5
+2023-07-16,Everest Bank Limited,EBL,581.0
+2023-07-16,Everest Bank Limited,EBLD86,840.0
+2023-07-13,Everest Bank Limited,EBL,568.0
+2023-07-13,Everest Bank Limited,EBLD86,855.0
+2023-07-17,Excel Development Bank Ltd.,EDBL,336.6
+2023-07-16,Excel Development Bank Ltd.,EDBL,326.5
+2023-07-13,Excel Development Bank Ltd.,EDBL,339.0
+2023-07-17,First Micro Finance Laghubitta Bittiya Sanstha Limited,FMDBL,753.0
+2023-07-16,First Micro Finance Laghubitta Bittiya Sanstha Limited,FMDBL,755.0
+2023-07-13,First Micro Finance Laghubitta Bittiya Sanstha Limited,FMDBL,774.0
+2023-07-17,Forward Microfinance Laghubitta Bittiya Sanstha Limited,FOWAD,1382.0
+2023-07-16,Forward Microfinance Laghubitta Bittiya Sanstha Limited,FOWAD,1363.9
+2023-07-13,Forward Microfinance Laghubitta Bittiya Sanstha Limited,FOWAD,1365.0
+2023-07-17,Ganapati Laghubitta Bittiya Sanstha Limited,GMFBS,827.0
+2023-07-16,Ganapati Laghubitta Bittiya Sanstha Limited,GMFBS,812.0
+2023-07-13,Ganapati Laghubitta Bittiya Sanstha Limited,GMFBS,861.3
+2023-07-17,Garima Bikas Bank Limited,GBBL,407.0
+2023-07-16,Garima Bikas Bank Limited,GBBL,405.0
+2023-07-13,Garima Bikas Bank Limited,GBBL,395.0
+2023-07-17,Ghalemdi Hydro Limited,GHL,223.0
+2023-07-16,Ghalemdi Hydro Limited,GHL,225.0
+2023-07-13,Ghalemdi Hydro Limited,GHL,234.8
+2023-07-17,Global IME Balanced Fund-1,GIBF1,9.16
+2023-07-16,Global IME Balanced Fund-1,GIBF1,9.34
+2023-07-13,Global IME Balanced Fund-1,GIBF1,9.16
+2023-07-17,Global IME Bank Limited,GBIME,192.0
+2023-07-16,Global IME Bank Limited,GBIME,186.8
+2023-07-13,Global IME Bank Limited,GBIME,185.0
+2023-07-16,Global IME Bank Limited Debenture 2086/87,GBILD86/87,836.0
+2023-07-13,Global IME Bank Limited Debenture 2086/87,GBILD86/87,834.0
+2023-07-13,Global IME Bank Ltd. Promoter Share,GBIMEP,103.0
+2023-07-17,Global IME Laghubitta Bittiya Sanstha Ltd.,GILB,1059.0
+2023-07-16,Global IME Laghubitta Bittiya Sanstha Ltd.,GILB,1061.0
+2023-07-13,Global IME Laghubitta Bittiya Sanstha Ltd.,GILB,1027.0
+2023-07-17,Goodwill Finance Limited,GFCL,508.0
+2023-07-16,Goodwill Finance Limited,GFCL,491.5
+2023-07-13,Goodwill Finance Limited,GFCL,503.0
+2023-07-17,Grameen Bikas Laghubitta Bittiya Sanstha Ltd.,GBLBS,645.6
+2023-07-16,Grameen Bikas Laghubitta Bittiya Sanstha Ltd.,GBLBS,633.0
+2023-07-13,Grameen Bikas Laghubitta Bittiya Sanstha Ltd.,GBLBS,624.0
+2023-07-17,Green Development Bank Ltd.,GRDBL,330.0
+2023-07-16,Green Development Bank Ltd.,GRDBL,316.2
+2023-07-13,Green Development Bank Ltd.,GRDBL,330.0
+2023-07-17,Green Ventures Limited,GVL,412.0
+2023-07-16,Green Ventures Limited,GVL,407.0
+2023-07-13,Green Ventures Limited,GVL,420.0
+2023-07-17,GreenLife Hydropower Limited,GLH,263.0
+2023-07-16,GreenLife Hydropower Limited,GLH,265.2
+2023-07-13,GreenLife Hydropower Limited,GLH,280.5
+2023-07-17,Guheshowori Merchant Bank & Finance Co. Ltd.,GMFIL,421.9
+2023-07-16,Guheshowori Merchant Bank & Finance Co. Ltd.,GMFIL,407.6
+2023-07-13,Guheshowori Merchant Bank & Finance Co. Ltd.,GMFIL,407.0
+2023-07-17,Gurans Laghubitta Bittiya Sanstha Limited,GLBSL,752.7
+2023-07-16,Gurans Laghubitta Bittiya Sanstha Limited,GLBSL,750.0
+2023-07-13,Gurans Laghubitta Bittiya Sanstha Limited,GLBSL,740.0
+2023-07-17,Gurkhas Finance Ltd.,GUFL,580.0
+2023-07-16,Gurkhas Finance Ltd.,GUFL,575.0
+2023-07-13,Gurkhas Finance Ltd.,GUFL,590.0
+2023-07-17,Himal Dolakha Hydropower Company Limited,HDHPC,156.0
+2023-07-16,Himal Dolakha Hydropower Company Limited,HDHPC,156.9
+2023-07-13,Himal Dolakha Hydropower Company Limited,HDHPC,164.0
+2023-07-17,Himalaya Urja Bikas Company Limited,HURJA,283.9
+2023-07-16,Himalaya Urja Bikas Company Limited,HURJA,277.0
+2023-07-13,Himalaya Urja Bikas Company Limited,HURJA,290.5
+2023-07-17,Himalayan Bank Limited,HBL,219.0
+2023-07-16,Himalayan Bank Limited,HBL,213.0
+2023-07-13,Himalayan Bank Limited,HBL,212.0
+2023-07-17,Himalayan Distillery Limited,HDL,2285.0
+2023-07-16,Himalayan Distillery Limited,HDL,2279.0
+2023-07-13,Himalayan Distillery Limited,HDL,2308.0
+2023-07-17,Himalayan Everest Insurance Limited,HEI,625.0
+2023-07-16,Himalayan Everest Insurance Limited,HEI,616.0
+2023-07-13,Himalayan Everest Insurance Limited,HEI,624.0
+2023-07-17,Himalayan Everest Insurance Limited Promoter,HEIP,469.2
+2023-07-16,Himalayan Everest Insurance Limited Promoter,HEIP,460.0
+2023-07-13,Himalayan Everest Insurance Limited Promoter,HEIP,454.0
+2023-07-17,Himalayan Hydropower Limited,HHL,257.0
+2023-07-16,Himalayan Hydropower Limited,HHL,255.5
+2023-07-13,Himalayan Hydropower Limited,HHL,269.2
+2023-07-17,Himalayan Life Insurance Limited,HLI,517.1
+2023-07-16,Himalayan Life Insurance Limited,HLI,514.9
+2023-07-13,Himalayan Life Insurance Limited,HLI,514.0
+2023-07-17,Himalayan Power Partner Ltd.,HPPL,300.0
+2023-07-16,Himalayan Power Partner Ltd.,HPPL,296.8
+2023-07-13,Himalayan Power Partner Ltd.,HPPL,309.0
+2023-07-17,Hydorelectricity Investment and Development Company Limited Promoter,HIDCLP,105.5
+2023-07-16,Hydorelectricity Investment and Development Company Limited Promoter,HIDCLP,104.0
+2023-07-13,Hydorelectricity Investment and Development Company Limited Promoter,HIDCLP,106.7
+2023-07-17,Hydorelectricity Investment and Development Company Ltd,HIDCL,190.0
+2023-07-16,Hydorelectricity Investment and Development Company Ltd,HIDCL,186.0
+2023-07-13,Hydorelectricity Investment and Development Company Ltd,HIDCL,189.0
+2023-07-17,ICFC Finance Limited,ICFC,540.0
+2023-07-16,ICFC Finance Limited,ICFC,534.0
+2023-07-13,ICFC Finance Limited,ICFC,542.9
+2023-07-17,IGI Prudential insurance Limited,IGI,583.6
+2023-07-16,IGI Prudential insurance Limited,IGI,570.0
+2023-07-13,IGI Prudential insurance Limited,IGI,581.0
+2023-07-17,Infinity Laghubitta Bittiya Sanstha Limited,ILBS,728.0
+2023-07-16,Infinity Laghubitta Bittiya Sanstha Limited,ILBS,715.0
+2023-07-13,Infinity Laghubitta Bittiya Sanstha Limited,ILBS,717.0
+2023-07-17,Ingwa Hydropower Limited,IHL,264.3
+2023-07-16,Ingwa Hydropower Limited,IHL,257.0
+2023-07-13,Ingwa Hydropower Limited,IHL,280.0
+2023-07-17,Jalpa Samudayik Laghubitta Bittiya Sanstha Limited,JALPA,1625.0
+2023-07-16,Jalpa Samudayik Laghubitta Bittiya Sanstha Limited,JALPA,1625.0
+2023-07-13,Jalpa Samudayik Laghubitta Bittiya Sanstha Limited,JALPA,1613.6
+2023-07-17,Janaki Finance Company Limited,JFL,421.0
+2023-07-16,Janaki Finance Company Limited,JFL,409.0
+2023-07-13,Janaki Finance Company Limited,JFL,418.0
+2023-07-17,Janautthan Samudayic Laghubitta Bittya Sanstha Limited,JSLBB,1048.9
+2023-07-16,Janautthan Samudayic Laghubitta Bittya Sanstha Limited,JSLBB,1034.9
+2023-07-13,Janautthan Samudayic Laghubitta Bittya Sanstha Limited,JSLBB,1065.0
+2023-07-17,Jeevan Bikas Laghubitta  Bittya Sanstha Ltd,JBLB,1635.0
+2023-07-16,Jeevan Bikas Laghubitta  Bittya Sanstha Ltd,JBLB,1620.0
+2023-07-13,Jeevan Bikas Laghubitta  Bittya Sanstha Ltd,JBLB,1637.0
+2023-07-17,Joshi Hydropower Development Company Ltd,JOSHI,270.3
+2023-07-16,Joshi Hydropower Development Company Ltd,JOSHI,273.3
+2023-07-13,Joshi Hydropower Development Company Ltd,JOSHI,278.0
+2023-07-17,Jyoti Bikas Bank Limited,JBBL,312.0
+2023-07-16,Jyoti Bikas Bank Limited,JBBL,302.0
+2023-07-13,Jyoti Bikas Bank Limited,JBBL,308.0
+2023-07-16,Jyoti Bikash  Bank Ltd. Promoter Share,JBBLPO,157.0
+2023-07-17,Kalika Laghubitta Bittiya Sanstha Ltd,KMCDB,742.9
+2023-07-16,Kalika Laghubitta Bittiya Sanstha Ltd,KMCDB,754.0
+2023-07-13,Kalika Laghubitta Bittiya Sanstha Ltd,KMCDB,754.0
+2023-07-17,Kalika power Company Ltd,KPCL,369.2
+2023-07-16,Kalika power Company Ltd,KPCL,372.3
+2023-07-13,Kalika power Company Ltd,KPCL,373.0
+2023-07-17,Kalinchowk Darshan Limited,KDL,975.0
+2023-07-16,Kalinchowk Darshan Limited,KDL,945.0
+2023-07-13,Kalinchowk Darshan Limited,KDL,970.0
+2023-07-17,Kamana Sewa Bikas Bank Limited,KSBBL,345.0
+2023-07-16,Kamana Sewa Bikas Bank Limited,KSBBL,336.6
+2023-07-13,Kamana Sewa Bikas Bank Limited,KSBBL,341.8
+2023-07-17,Karnali Development Bank Limited,KRBL,298.0
+2023-07-16,Karnali Development Bank Limited,KRBL,292.5
+2023-07-13,Karnali Development Bank Limited,KRBL,299.7
+2023-07-17,Khanikhola Hydropower Co. Ltd.,KKHC,211.0
+2023-07-16,Khanikhola Hydropower Co. Ltd.,KKHC,204.0
+2023-07-13,Khanikhola Hydropower Co. Ltd.,KKHC,215.0
+2023-07-17,Kisan Lagubitta Bittiya Sanstha Limited,KLBSL,710.0
+2023-07-16,Kisan Lagubitta Bittiya Sanstha Limited,KLBSL,721.0
+2023-07-13,Kisan Lagubitta Bittiya Sanstha Limited,KLBSL,747.0
+2023-07-17,Kumari Bank Limited,KBL,173.0
+2023-07-16,Kumari Bank Limited,KBL,166.1
+2023-07-13,Kumari Bank Limited,KBL,164.2
+2023-07-16,Kumari Bank Limited Promotor Share,KBLPO,113.7
+2023-07-17,Kumari Dhanabriddhi Yojana,KDBY,9.84
+2023-07-16,Kumari Dhanabriddhi Yojana,KDBY,10.04
+2023-07-13,Kumari Dhanabriddhi Yojana,KDBY,9.87
+2023-07-17,Kumari Equity Fund,KEF,10.35
+2023-07-16,Kumari Equity Fund,KEF,10.17
+2023-07-13,Kumari Equity Fund,KEF,9.83
+2023-07-13,Laxmi Bank Limited,LBL,177.9
+2023-07-17,Laxmi Equity Fund,LEMF,9.63
+2023-07-16,Laxmi Equity Fund,LEMF,9.62
+2023-07-13,Laxmi Equity Fund,LEMF,10.0
+2023-07-17,Laxmi Laghubitta Bittiya Sanstha Ltd.,LLBS,907.0
+2023-07-16,Laxmi Laghubitta Bittiya Sanstha Ltd.,LLBS,893.0
+2023-07-13,Laxmi Laghubitta Bittiya Sanstha Ltd.,LLBS,883.9
+2023-07-17,Laxmi Unnati Kosh,LUK,9.52
+2023-07-16,Laxmi Unnati Kosh,LUK,9.48
+2023-07-13,Laxmi Unnati Kosh,LUK,9.35
+2023-07-17,Liberty Energy Company Limited,LEC,248.9
+2023-07-16,Liberty Energy Company Limited,LEC,258.0
+2023-07-13,Liberty Energy Company Limited,LEC,265.0
+2023-07-17,Life Insurance Corporation (Nepal) Limited,LICN,1630.0
+2023-07-16,Life Insurance Corporation (Nepal) Limited,LICN,1569.9
+2023-07-13,Life Insurance Corporation (Nepal) Limited,LICN,1615.0
+2023-07-17,Lumbini Bikas Bank Ltd.,LBBL,435.0
+2023-07-16,Lumbini Bikas Bank Ltd.,LBBL,415.8
+2023-07-13,Lumbini Bikas Bank Ltd.,LBBL,420.0
+2023-07-17,Machhapuchhre Bank Limited,MBL,244.0
+2023-07-16,Machhapuchhre Bank Limited,MBL,232.7
+2023-07-13,Machhapuchhre Bank Limited,MBL,233.6
+2023-07-17,Madhya Bhotekoshi Jalavidyut Company Limited,MBJC,309.3
+2023-07-16,Madhya Bhotekoshi Jalavidyut Company Limited,MBJC,309.7
+2023-07-13,Madhya Bhotekoshi Jalavidyut Company Limited,MBJC,325.0
+2023-07-17,Mahalaxmi Bikas Bank Ltd.,MLBL,346.0
+2023-07-16,Mahalaxmi Bikas Bank Ltd.,MLBL,334.9
+2023-07-13,Mahalaxmi Bikas Bank Ltd.,MLBL,341.6
+2023-07-16,Mahalxmi Bikas Bank Ltd. Promotor Share,MLBLPO,174.7
+2023-07-17,Mahila Lagubitta Bittiya Sanstha Limited ,MLBSL,2100.0
+2023-07-16,Mahila Lagubitta Bittiya Sanstha Limited ,MLBSL,2100.0
+2023-07-13,Mahila Lagubitta Bittiya Sanstha Limited ,MLBSL,2128.0
+2023-07-17,Mahuli Laghubitta Bittiya Sanstha Limited,MSLB,897.0
+2023-07-16,Mahuli Laghubitta Bittiya Sanstha Limited,MSLB,869.9
+2023-07-13,Mahuli Laghubitta Bittiya Sanstha Limited,MSLB,884.3
+2023-07-17,Mai Khola Hydropower Limited,MKHL,287.5
+2023-07-16,Mai Khola Hydropower Limited,MKHL,286.6
+2023-07-13,Mai Khola Hydropower Limited,MKHL,294.0
+2023-07-17,Mailung Khola Jal Vidhyut Company Limited,MKJC,397.0
+2023-07-16,Mailung Khola Jal Vidhyut Company Limited,MKJC,394.0
+2023-07-13,Mailung Khola Jal Vidhyut Company Limited,MKJC,408.0
+2023-07-17,Makar Jitumaya Suri Hydropower Limited,MAKAR,282.0
+2023-07-16,Makar Jitumaya Suri Hydropower Limited,MAKAR,294.0
+2023-07-13,Makar Jitumaya Suri Hydropower Limited,MAKAR,295.8
+2023-07-17,Manakamana Smart Laghubitta Bittiya Sanstha Limited,MKLB,771.8
+2023-07-16,Manakamana Smart Laghubitta Bittiya Sanstha Limited,MKLB,756.9
+2023-07-13,Manakamana Smart Laghubitta Bittiya Sanstha Limited,MKLB,787.0
+2023-07-17,Mandakini Hydropower Limited,MHL,312.3
+2023-07-16,Mandakini Hydropower Limited,MHL,307.0
+2023-07-13,Mandakini Hydropower Limited,MHL,320.0
+2023-07-17,Manjushree Finance Ltd.,MFIL,572.0
+2023-07-16,Manjushree Finance Ltd.,MFIL,564.9
+2023-07-13,Manjushree Finance Ltd.,MFIL,577.0
+2023-07-17,Manushi Laghubitta Bittiya Sanstha Limited,MLBS,803.7
+2023-07-16,Manushi Laghubitta Bittiya Sanstha Limited,MLBS,790.0
+2023-07-13,Manushi Laghubitta Bittiya Sanstha Limited,MLBS,821.0
+2023-07-17,Maya Khola Hydropower Company Limited,MKHC,241.0
+2023-07-16,Maya Khola Hydropower Company Limited,MKHC,239.2
+2023-07-13,Maya Khola Hydropower Company Limited,MKHC,244.8
+2023-07-17,Mega Mutual Fund -1,MMF1,7.97
+2023-07-16,Mega Mutual Fund -1,MMF1,8.14
+2023-07-13,Mega Mutual Fund -1,MMF1,8.04
+2023-07-17,Menchhiyam Hydropower Limited,MCHL,234.4
+2023-07-16,Menchhiyam Hydropower Limited,MCHL,226.0
+2023-07-13,Menchhiyam Hydropower Limited,MCHL,234.0
+2023-07-17,Mero Microfinance Bittiya Sanstha Ltd.,MERO,689.0
+2023-07-16,Mero Microfinance Bittiya Sanstha Ltd.,MERO,688.5
+2023-07-13,Mero Microfinance Bittiya Sanstha Ltd.,MERO,704.8
+2023-07-17,Mirmire Laghubitta Bittya Sanstha Limited,MMFDB,734.4
+2023-07-16,Mirmire Laghubitta Bittya Sanstha Limited,MMFDB,714.9
+2023-07-13,Mirmire Laghubitta Bittya Sanstha Limited,MMFDB,729.3
+2023-07-17,Miteri Development Bank Limited,MDB,420.0
+2023-07-16,Miteri Development Bank Limited,MDB,410.0
+2023-07-13,Miteri Development Bank Limited,MDB,421.2
+2023-07-17,Mithila LaghuBitta Bittiya Sanstha Limited,MLBBL,1044.0
+2023-07-16,Mithila LaghuBitta Bittiya Sanstha Limited,MLBBL,1045.0
+2023-07-13,Mithila LaghuBitta Bittiya Sanstha Limited,MLBBL,985.1
+2023-07-17,Modi Energy Limited,MEL,214.0
+2023-07-16,Modi Energy Limited,MEL,212.7
+2023-07-13,Modi Energy Limited,MEL,223.5
+2023-07-17,Molung Hydropower Company Limited,MHCL,218.2
+2023-07-16,Molung Hydropower Company Limited,MHCL,218.2
+2023-07-13,Molung Hydropower Company Limited,MHCL,223.3
+2023-07-17,Mountain Energy Nepal Limited,MEN,1029.0
+2023-07-16,Mountain Energy Nepal Limited,MEN,1030.0
+2023-07-13,Mountain Energy Nepal Limited,MEN,1040.0
+2023-07-17,Mountain Hydro Nepal Limited,MHNL,239.6
+2023-07-16,Mountain Hydro Nepal Limited,MHNL,248.0
+2023-07-13,Mountain Hydro Nepal Limited,MHNL,245.0
+2023-07-17,Muktinath Bikas Bank Ltd.,MNBBL,422.0
+2023-07-16,Muktinath Bikas Bank Ltd.,MNBBL,412.0
+2023-07-13,Muktinath Bikas Bank Ltd.,MNBBL,419.9
+2023-07-17,Multipurpose Finance Company  Limited,MPFL,413.0
+2023-07-16,Multipurpose Finance Company  Limited,MPFL,396.0
+2023-07-13,Multipurpose Finance Company  Limited,MPFL,395.0
+2023-07-17,NABIL BALANCED FUND-2,NBF2,9.09
+2023-07-16,NABIL BALANCED FUND-2,NBF2,9.03
+2023-07-13,NABIL BALANCED FUND-2,NBF2,8.86
+2023-07-17,NESDO Sambridha Laghubitta Bittiya Sanstha Limited,NESDO,2089.0
+2023-07-16,NESDO Sambridha Laghubitta Bittiya Sanstha Limited,NESDO,2060.0
+2023-07-13,NESDO Sambridha Laghubitta Bittiya Sanstha Limited,NESDO,2084.8
+2023-07-16,NIBL Growth Fund,NIBLGF,10.64
+2023-07-13,NIBL Growth Fund,NIBLGF,9.87
+2023-07-17,NIBL Pragati Fund,NIBLPF,9.52
+2023-07-16,NIBL Pragati Fund,NIBLPF,9.93
+2023-07-13,NIBL Pragati Fund,NIBLPF,10.13
+2023-07-17,NIBL Samriddhi Fund -2,NIBSF2,8.93
+2023-07-16,NIBL Samriddhi Fund -2,NIBSF2,9.49
+2023-07-13,NIBL Samriddhi Fund -2,NIBSF2,8.63
+2023-07-17,NIC ASIA Laghubitta Bittiya Sanstha Limited,NICLBSL,754.0
+2023-07-16,NIC ASIA Laghubitta Bittiya Sanstha Limited,NICLBSL,729.0
+2023-07-13,NIC ASIA Laghubitta Bittiya Sanstha Limited,NICLBSL,749.7
+2023-07-17,NIC Asia Balanced Fund,NICBF,9.3
+2023-07-16,NIC Asia Balanced Fund,NICBF,10.31
+2023-07-13,NIC Asia Balanced Fund,NICBF,9.38
+2023-07-17,NIC Asia Bank Ltd.,NICA,807.0
+2023-07-16,NIC Asia Bank Ltd.,NICA,796.0
+2023-07-13,NIC Asia Bank Ltd.,NICA,790.0
+2023-07-16,NIC Asia Flexi CAP Fund,NICFC,10.17
+2023-07-13,NIC Asia Flexi CAP Fund,NICFC,10.0
+2023-07-17,NIC Asia Growth Fund,NICGF,10.27
+2023-07-16,NIC Asia Growth Fund,NICGF,10.53
+2023-07-13,NIC Asia Growth Fund,NICGF,10.12
+2023-07-17,NIC Asia Select Fund 30,NICSF,9.0
+2023-07-16,NIC Asia Select Fund 30,NICSF,8.99
+2023-07-13,NIC Asia Select Fund 30,NICSF,8.95
+2023-07-17,NLG Insurance Company Ltd.,NLG,868.0
+2023-07-16,NLG Insurance Company Ltd.,NLG,868.0
+2023-07-13,NLG Insurance Company Ltd.,NLG,872.0
+2023-07-17,NMB  Microfinance Bittiya Sanstha Ltd.,NMBMF,660.0
+2023-07-16,NMB  Microfinance Bittiya Sanstha Ltd.,NMBMF,650.0
+2023-07-13,NMB  Microfinance Bittiya Sanstha Ltd.,NMBMF,660.0
+2023-07-17,NMB 50,NMB50,10.6
+2023-07-16,NMB 50,NMB50,10.65
+2023-07-13,NMB 50,NMB50,10.65
+2023-07-17,NMB Bank Limited,NMB,236.0
+2023-07-16,NMB Bank Limited,NMB,227.9
+2023-07-13,NMB Bank Limited,NMB,226.0
+2023-07-17,NMB Debenture 8.50% - 2087/88,NMBD87/88,789.8
+2023-07-13,NMB Debenture 8.50% - 2087/88,NMBD87/88,805.9
+2023-07-17,NMB Hybrid Fund L-1,NMBHF1,10.79
+2023-07-16,NMB Hybrid Fund L-1,NMBHF1,10.79
+2023-07-13,NMB Hybrid Fund L-1,NMBHF1,10.79
+2023-07-17,NMB Sulav Investment Fund - 2,NSIF2,9.99
+2023-07-16,NMB Sulav Investment Fund - 2,NSIF2,9.99
+2023-07-13,NMB Sulav Investment Fund - 2,NSIF2,9.88
+2023-07-17,NRN Infrastructure and Development Limited,NRN,525.0
+2023-07-16,NRN Infrastructure and Development Limited,NRN,530.0
+2023-07-13,NRN Infrastructure and Development Limited,NRN,536.9
+2023-07-17,Nabil Balanced Fund-3,NBF3,7.72
+2023-07-16,Nabil Balanced Fund-3,NBF3,7.68
+2023-07-13,Nabil Balanced Fund-3,NBF3,7.56
+2023-07-17,Nabil Bank Limited,NABIL,612.0
+2023-07-16,Nabil Bank Limited,NABIL,605.9
+2023-07-13,Nabil Bank Limited,NABIL,597.9
+2023-07-17,Nabil Debenture 2085,NBLD85,843.0
+2023-07-16,Nabil Debenture 2085,NBLD85,860.0
+2023-07-13,Nabil Debenture 2085,NBLD85,843.2
+2023-07-17,Nabil Equity Fund,NEF,9.73
+2023-07-16,Nabil Equity Fund,NEF,9.72
+2023-07-13,Nabil Equity Fund,NEF,9.74
+2023-07-17,Nadep Laghubittiya bittya Sanstha Ltd.,NADEP,627.0
+2023-07-16,Nadep Laghubittiya bittya Sanstha Ltd.,NADEP,618.0
+2023-07-13,Nadep Laghubittiya bittya Sanstha Ltd.,NADEP,640.0
+2023-07-17,Narayani Development Bank Limited,NABBC,439.0
+2023-07-16,Narayani Development Bank Limited,NABBC,435.0
+2023-07-13,Narayani Development Bank Limited,NABBC,440.0
+2023-07-17,National Hydro Power Company Limited,NHPC,181.5
+2023-07-16,National Hydro Power Company Limited,NHPC,180.5
+2023-07-13,National Hydro Power Company Limited,NHPC,190.9
+2023-07-17,National Life Insurance Co. Ltd.,NLICL,665.0
+2023-07-16,National Life Insurance Co. Ltd.,NLICL,665.8
+2023-07-13,National Life Insurance Co. Ltd.,NLICL,668.9
+2023-07-13,National Microfinance Laghubitta Bittiya Sanstha Limited,NMFBS,1407.0
+2023-07-13,Naya Sarathi Laghubitta Bittiya Sanstha Limited,NSLB,701.9
+2023-07-17,Neco Insurance Limited,NIL,905.0
+2023-07-16,Neco Insurance Limited,NIL,909.0
+2023-07-13,Neco Insurance Limited,NIL,925.0
+2023-07-17,Nepal Bank Limited,NBL,256.9
+2023-07-16,Nepal Bank Limited,NBL,249.7
+2023-07-13,Nepal Bank Limited,NBL,250.5
+2023-07-17,Nepal Doorsanchar Company Limited,NTC,920.0
+2023-07-16,Nepal Doorsanchar Company Limited,NTC,914.0
+2023-07-13,Nepal Doorsanchar Company Limited,NTC,924.9
+2023-07-17,Nepal Finance Ltd.,NFS,372.0
+2023-07-16,Nepal Finance Ltd.,NFS,360.0
+2023-07-13,Nepal Finance Ltd.,NFS,366.8
+2023-07-17,Nepal Hydro Developers Ltd.,NHDL,384.4
+2023-07-16,Nepal Hydro Developers Ltd.,NHDL,382.9
+2023-07-13,Nepal Hydro Developers Ltd.,NHDL,404.3
+2023-07-17,Nepal Infrastructure Bank Limited,NIFRA,230.0
+2023-07-16,Nepal Infrastructure Bank Limited,NIFRA,228.0
+2023-07-13,Nepal Infrastructure Bank Limited,NIFRA,222.9
+2023-07-17,Nepal Insurance Co. Ltd.,NICL,848.0
+2023-07-16,Nepal Insurance Co. Ltd.,NICL,840.0
+2023-07-13,Nepal Insurance Co. Ltd.,NICL,864.0
+2023-07-17,Nepal Investment Mega Bank Limited,NIMB,185.9
+2023-07-16,Nepal Investment Mega Bank Limited,NIMB,177.7
+2023-07-13,Nepal Investment Mega Bank Limited,NIMB,178.0
+2023-07-17,Nepal Investment Mega Bank Ltd. Promoter Share,NIMBPO,154.9
+2023-07-16,Nepal Investment Mega Bank Ltd. Promoter Share,NIMBPO,153.9
+2023-07-13,Nepal Investment Mega Bank Ltd. Promoter Share,NIMBPO,149.9
+2023-07-17,Nepal Life Insurance Co. Ltd.,NLIC,763.9
+2023-07-16,Nepal Life Insurance Co. Ltd.,NLIC,754.0
+2023-07-13,Nepal Life Insurance Co. Ltd.,NLIC,755.0
+2023-07-16,Nepal Lube Oil Limited,NLO,261.0
+2023-07-17,Nepal Reinsurance Company Limited,NRIC,756.0
+2023-07-16,Nepal Reinsurance Company Limited,NRIC,765.0
+2023-07-13,Nepal Reinsurance Company Limited,NRIC,756.0
+2023-07-17,Nepal SBI Bank Limited,SBI,352.0
+2023-07-16,Nepal SBI Bank Limited,SBI,345.0
+2023-07-13,Nepal SBI Bank Limited,SBI,347.5
+2023-07-17,Nerude Laghubitta Bittiya Sanstha Limited,NLBBL,700.0
+2023-07-16,Nerude Laghubitta Bittiya Sanstha Limited,NLBBL,689.7
+2023-07-13,Nerude Laghubitta Bittiya Sanstha Limited,NLBBL,702.7
+2023-07-17,Ngadi Group Power Ltd.,NGPL,239.0
+2023-07-16,Ngadi Group Power Ltd.,NGPL,241.8
+2023-07-13,Ngadi Group Power Ltd.,NGPL,249.7
+2023-07-17,Nirdhan Utthan Laghubitta Bittiya Sanstha Limited,NUBL,778.0
+2023-07-16,Nirdhan Utthan Laghubitta Bittiya Sanstha Limited,NUBL,765.0
+2023-07-13,Nirdhan Utthan Laghubitta Bittiya Sanstha Limited,NUBL,749.9
+2023-07-17,Nyadi Hydropower Limited,NYADI,268.7
+2023-07-16,Nyadi Hydropower Limited,NYADI,265.0
+2023-07-13,Nyadi Hydropower Limited,NYADI,279.3
+2023-07-17,Oriental Hotels Limited,OHL,824.0
+2023-07-16,Oriental Hotels Limited,OHL,805.0
+2023-07-13,Oriental Hotels Limited,OHL,805.0
+2023-07-17,Panchakanya Mai Hydropower Ltd,PMHPL,208.0
+2023-07-16,Panchakanya Mai Hydropower Ltd,PMHPL,207.0
+2023-07-13,Panchakanya Mai Hydropower Ltd,PMHPL,217.3
+2023-07-17,Panchthar Power Compant Limited,PPCL,279.0
+2023-07-16,Panchthar Power Compant Limited,PPCL,274.9
+2023-07-13,Panchthar Power Compant Limited,PPCL,284.0
+2023-07-17,People's Power Limited,PPL,256.9
+2023-07-16,People's Power Limited,PPL,254.0
+2023-07-13,People's Power Limited,PPL,265.0
+2023-07-17,Peoples Hydropower Company Limited,PHCL,329.9
+2023-07-16,Peoples Hydropower Company Limited,PHCL,345.7
+2023-07-13,Peoples Hydropower Company Limited,PHCL,345.0
+2023-07-17,Pokhara Finance Ltd.,PFL,412.8
+2023-07-16,Pokhara Finance Ltd.,PFL,411.0
+2023-07-13,Pokhara Finance Ltd.,PFL,415.0
+2023-07-17,Prabhu  Bank Limited,PRVU,170.0
+2023-07-16,Prabhu  Bank Limited,PRVU,163.0
+2023-07-13,Prabhu  Bank Limited,PRVU,163.0
+2023-07-16,Prabhu  Bank Limited Promoter Share,PRVUPO,115.0
+2023-07-13,Prabhu  Bank Limited Promoter Share,PRVUPO,115.0
+2023-07-17,Prabhu Insurance Ltd.,PRIN,777.0
+2023-07-16,Prabhu Insurance Ltd.,PRIN,760.1
+2023-07-13,Prabhu Insurance Ltd.,PRIN,772.0
+2023-07-13,Prabhu Life Insurance Limited,PLI,611.8
+2023-07-17,Prabhu Select Fund,PSF,9.1
+2023-07-16,Prabhu Select Fund,PSF,9.79
+2023-07-13,Prabhu Select Fund,PSF,9.33
+2023-07-17,Prabhu Smart Fund,PRSF,9.9
+2023-07-16,Prabhu Smart Fund,PRSF,10.06
+2023-07-13,Prabhu Smart Fund,PRSF,9.44
+2023-07-17,Prime Commercial Bank Ltd.,PCBL,200.5
+2023-07-16,Prime Commercial Bank Ltd.,PCBL,195.5
+2023-07-13,Prime Commercial Bank Ltd.,PCBL,196.0
+2023-07-13,Prime Commercial Bank Promoter Share,PCBLP,147.0
+2023-07-17,Progressive Finance Limited,PROFL,425.3
+2023-07-16,Progressive Finance Limited,PROFL,423.0
+2023-07-13,Progressive Finance Limited,PROFL,436.0
+2023-07-17,RASUWAGADHI HYDROPOWER COMPANY LIMITED,RHPL,308.0
+2023-07-16,RASUWAGADHI HYDROPOWER COMPANY LIMITED,RHPL,303.0
+2023-07-13,RASUWAGADHI HYDROPOWER COMPANY LIMITED,RHPL,317.7
+2023-07-17,RBB Mutual Fund 1,RMF1,8.1
+2023-07-16,RBB Mutual Fund 1,RMF1,8.08
+2023-07-13,RBB Mutual Fund 1,RMF1,7.98
+2023-07-17,RSDC Laghubitta Bittiya Sanstha Ltd.,RSDC,645.0
+2023-07-16,RSDC Laghubitta Bittiya Sanstha Ltd.,RSDC,630.0
+2023-07-13,RSDC Laghubitta Bittiya Sanstha Ltd.,RSDC,655.0
+2023-07-17,Radhi Bidyut Company Ltd,RADHI,238.6
+2023-07-16,Radhi Bidyut Company Ltd,RADHI,236.0
+2023-07-13,Radhi Bidyut Company Ltd,RADHI,249.9
+2023-07-17,Rapti Hydro And General Construction Limited,RHGCL,250.0
+2023-07-16,Rapti Hydro And General Construction Limited,RHGCL,247.0
+2023-07-13,Rapti Hydro And General Construction Limited,RHGCL,265.0
+2023-07-13,Rastra Utthan Laghubitta Sanstha Limited,RULB,835.0
+2023-07-17,Rastriya Beema Company Limited,RBCL,16100.0
+2023-07-16,Rastriya Beema Company Limited,RBCL,16100.0
+2023-07-13,Rastriya Beema Company Limited,RBCL,15400.0
+2023-07-16,Rastriya Beema Company Limited Promoter Share,RBCLPO,15598.0
+2023-07-13,Rastriya Beema Company Limited Promoter Share,RBCLPO,14499.0
+2023-07-17,Rawa Energy Development Limited,RAWA,358.0
+2023-07-16,Rawa Energy Development Limited,RAWA,364.0
+2023-07-13,Rawa Energy Development Limited,RAWA,363.0
+2023-07-17,Reliance Finance Ltd.,RLFL,397.8
+2023-07-16,Reliance Finance Ltd.,RLFL,385.9
+2023-07-13,Reliance Finance Ltd.,RLFL,387.0
+2023-07-13,Reliance Finance Ltd. Promoter Share,RLFLPO,215.0
+2023-07-17,Ridi Power Company Limited,RIDI,252.0
+2023-07-16,Ridi Power Company Limited,RIDI,248.5
+2023-07-13,Ridi Power Company Limited,RIDI,263.8
+2023-07-17,River Falls Power Limited,RFPL,261.0
+2023-07-16,River Falls Power Limited,RFPL,252.0
+2023-07-13,River Falls Power Limited,RFPL,268.0
+2023-07-17,Ru Ru Jalbidhyut Pariyojana Limited,RURU,795.0
+2023-07-16,Ru Ru Jalbidhyut Pariyojana Limited,RURU,790.0
+2023-07-13,Ru Ru Jalbidhyut Pariyojana Limited,RURU,816.0
+2023-07-17,SANJEN JALAVIDHYUT COMPANY LIMITED,SJCL,320.0
+2023-07-16,SANJEN JALAVIDHYUT COMPANY LIMITED,SJCL,302.0
+2023-07-13,SANJEN JALAVIDHYUT COMPANY LIMITED,SJCL,310.0
+2023-07-17,SHIVAM CEMENTS LTD,SHIVM,665.9
+2023-07-16,SHIVAM CEMENTS LTD,SHIVM,668.0
+2023-07-13,SHIVAM CEMENTS LTD,SHIVM,680.0
+2023-07-17,Sabaiko Laghubitta Bittiya Sanstha Limited,SABSL,749.0
+2023-07-16,Sabaiko Laghubitta Bittiya Sanstha Limited,SABSL,740.0
+2023-07-13,Sabaiko Laghubitta Bittiya Sanstha Limited,SABSL,753.6
+2023-07-17,Sadhana Laghubitta Bittiya Sanstha Limited,SDLBSL,745.0
+2023-07-16,Sadhana Laghubitta Bittiya Sanstha Limited,SDLBSL,744.0
+2023-07-13,Sadhana Laghubitta Bittiya Sanstha Limited,SDLBSL,764.0
+2023-07-17,Sagarmatha Jalabidhyut Company Limited,SMJC,257.1
+2023-07-16,Sagarmatha Jalabidhyut Company Limited,SMJC,255.0
+2023-07-13,Sagarmatha Jalabidhyut Company Limited,SMJC,263.0
+2023-07-17,Sagarmatha Lumbini Insurance Co. Limited,SALICO,770.0
+2023-07-16,Sagarmatha Lumbini Insurance Co. Limited,SALICO,750.0
+2023-07-13,Sagarmatha Lumbini Insurance Co. Limited,SALICO,770.0
+2023-07-17,Sahas Urja Limited,SAHAS,491.0
+2023-07-16,Sahas Urja Limited,SAHAS,496.0
+2023-07-13,Sahas Urja Limited,SAHAS,499.0
+2023-07-17,Salt Trading Corporation,STC,5005.0
+2023-07-16,Salt Trading Corporation,STC,4990.0
+2023-07-13,Salt Trading Corporation,STC,5001.0
+2023-07-17,Samaj Laghubittya Bittiya Sanstha Limited,SAMAJ,72.1
+2023-07-17,Samata Gharelu Laghubitta Bittiya Sanstha Limited,SMATA,715.0
+2023-07-16,Samata Gharelu Laghubitta Bittiya Sanstha Limited,SMATA,716.0
+2023-07-13,Samata Gharelu Laghubitta Bittiya Sanstha Limited,SMATA,693.3
+2023-07-17,Samling Power Company Limited,SPC,417.0
+2023-07-16,Samling Power Company Limited,SPC,422.0
+2023-07-13,Samling Power Company Limited,SPC,431.0
+2023-07-17,Samriddhi Finance Company Limited,SFCL,338.9
+2023-07-16,Samriddhi Finance Company Limited,SFCL,330.4
+2023-07-13,Samriddhi Finance Company Limited,SFCL,342.7
+2023-07-17,Samudayik Laghubitta Bittiya Sanstha Limited,SLBSL,950.0
+2023-07-16,Samudayik Laghubitta Bittiya Sanstha Limited,SLBSL,949.0
+2023-07-13,Samudayik Laghubitta Bittiya Sanstha Limited,SLBSL,935.0
+2023-07-17,Sanima Bank Limited,SANIMA,275.0
+2023-07-16,Sanima Bank Limited,SANIMA,263.0
+2023-07-13,Sanima Bank Limited,SANIMA,262.9
+2023-07-17,Sanima Equity Fund,SAEF,11.6
+2023-07-16,Sanima Equity Fund,SAEF,11.8
+2023-07-13,Sanima Equity Fund,SAEF,11.2
+2023-07-17,Sanima GIC Insurance Limited,SGIC,664.0
+2023-07-16,Sanima GIC Insurance Limited,SGIC,654.0
+2023-07-13,Sanima GIC Insurance Limited,SGIC,674.0
+2023-07-17,Sanima Growth Fund,SAGF,9.8
+2023-07-16,Sanima Growth Fund,SAGF,9.99
+2023-07-13,Sanima Growth Fund,SAGF,9.09
+2023-07-17,Sanima Large Cap Fund,SLCF,8.75
+2023-07-16,Sanima Large Cap Fund,SLCF,8.92
+2023-07-13,Sanima Large Cap Fund,SLCF,8.27
+2023-07-17,Sanima Mai Hydropower Ltd.,SHPC,370.0
+2023-07-16,Sanima Mai Hydropower Ltd.,SHPC,365.1
+2023-07-13,Sanima Mai Hydropower Ltd.,SHPC,376.9
+2023-07-17,Sanima Middle Tamor Hydropower Limited,TAMOR,293.0
+2023-07-16,Sanima Middle Tamor Hydropower Limited,TAMOR,293.0
+2023-07-13,Sanima Middle Tamor Hydropower Limited,TAMOR,304.5
+2023-07-17,Sanima Reliance Life Insurance Limited,SRLI,575.0
+2023-07-16,Sanima Reliance Life Insurance Limited,SRLI,563.0
+2023-07-13,Sanima Reliance Life Insurance Limited,SRLI,578.0
+2023-07-17,Saptakoshi Development Bank Ltd,SAPDBL,265.0
+2023-07-16,Saptakoshi Development Bank Ltd,SAPDBL,265.0
+2023-07-13,Saptakoshi Development Bank Ltd,SAPDBL,274.0
+2023-07-17,Sayapatri Hydropower Limited,SPHL,379.0
+2023-07-16,Sayapatri Hydropower Limited,SPHL,368.5
+2023-07-13,Sayapatri Hydropower Limited,SPHL,390.0
+2023-07-16,Shangri-la Development Bank Debenture 2087,SDBD87,864.5
+2023-07-13,Shangri-la Development Bank Debenture 2087,SDBD87,847.6
+2023-07-17,Shangrila Development Bank Ltd.,SADBL,346.9
+2023-07-16,Shangrila Development Bank Ltd.,SADBL,328.9
+2023-07-13,Shangrila Development Bank Ltd.,SADBL,334.5
+2023-07-17,Shikhar Insurance Co. Ltd.,SICL,869.0
+2023-07-16,Shikhar Insurance Co. Ltd.,SICL,870.0
+2023-07-13,Shikhar Insurance Co. Ltd.,SICL,873.0
+2023-07-17,Shine Resunga Development Bank Ltd.,SHINE,410.0
+2023-07-16,Shine Resunga Development Bank Ltd.,SHINE,392.0
+2023-07-13,Shine Resunga Development Bank Ltd.,SHINE,396.0
+2023-07-17,Shiva Shree Hydropower Ltd,SSHL,187.6
+2023-07-16,Shiva Shree Hydropower Ltd,SSHL,189.0
+2023-07-13,Shiva Shree Hydropower Ltd,SSHL,196.6
+2023-07-17,Shree Investment Finance Co. Ltd.,SIFC,393.0
+2023-07-16,Shree Investment Finance Co. Ltd.,SIFC,384.0
+2023-07-13,Shree Investment Finance Co. Ltd.,SIFC,394.7
+2023-07-17,Shrijanshil Laghubitta Bittiya Sanstha Limited,SHLB,1305.7
+2023-07-16,Shrijanshil Laghubitta Bittiya Sanstha Limited,SHLB,1230.0
+2023-07-13,Shrijanshil Laghubitta Bittiya Sanstha Limited,SHLB,1165.2
+2023-07-17,Shuvam Power Limited,SPL,810.0
+2023-07-16,Shuvam Power Limited,SPL,810.0
+2023-07-13,Shuvam Power Limited,SPL,802.5
+2023-07-17,Siddhartha Bank Limited,SBL,267.0
+2023-07-16,Siddhartha Bank Limited,SBL,253.9
+2023-07-13,Siddhartha Bank Limited,SBL,249.0
+2023-07-17,Siddhartha Equity Fund,SEF,9.3
+2023-07-16,Siddhartha Equity Fund,SEF,9.43
+2023-07-13,Siddhartha Equity Fund,SEF,8.92
+2023-07-17,Siddhartha Investment Growth Scheme - 2,SIGS2,9.01
+2023-07-16,Siddhartha Investment Growth Scheme - 2,SIGS2,9.21
+2023-07-13,Siddhartha Investment Growth Scheme - 2,SIGS2,8.99
+2023-07-17,Siddhartha Premier Insurance Limited,SPIL,795.0
+2023-07-16,Siddhartha Premier Insurance Limited,SPIL,786.0
+2023-07-13,Siddhartha Premier Insurance Limited,SPIL,795.0
+2023-07-17,Sikles Hydropower Limited,SIKLES,402.0
+2023-07-16,Sikles Hydropower Limited,SIKLES,392.1
+2023-07-13,Sikles Hydropower Limited,SIKLES,407.9
+2023-07-17,Sindhu Bikash Bank Ltd,SINDU,287.0
+2023-07-16,Sindhu Bikash Bank Ltd,SINDU,291.0
+2023-07-13,Sindhu Bikash Bank Ltd,SINDU,291.0
+2023-07-17,Singati Hydro Energy Limited,SHEL,284.0
+2023-07-16,Singati Hydro Energy Limited,SHEL,290.0
+2023-07-13,Singati Hydro Energy Limited,SHEL,290.8
+2023-07-17,Soaltee Hotel Limited,SHL,499.5
+2023-07-16,Soaltee Hotel Limited,SHL,494.0
+2023-07-13,Soaltee Hotel Limited,SHL,499.0
+2023-07-17,Standard Chartered Bank Limited,SCB,547.0
+2023-07-16,Standard Chartered Bank Limited,SCB,540.0
+2023-07-13,Standard Chartered Bank Limited,SCB,539.0
+2023-07-13,Summit Laghubitta Bittiya Sanstha Limited,SMFDB,1002.9
+2023-07-13,Sunrise Bank Limited,SRBL,175.0
+2023-07-17,Sunrise Bluechip Fund,SBCF,8.14
+2023-07-16,Sunrise Bluechip Fund,SBCF,7.99
+2023-07-13,Sunrise Bluechip Fund,SBCF,8.0
+2023-07-17,Sunrise First Mutual Fund,SFMF,11.12
+2023-07-16,Sunrise First Mutual Fund,SFMF,11.1
+2023-07-13,Sunrise First Mutual Fund,SFMF,11.18
+2023-07-17,Sunrise Focused Equity Fund,SFEF,9.68
+2023-07-16,Sunrise Focused Equity Fund,SFEF,9.68
+2023-07-13,Sunrise Focused Equity Fund,SFEF,9.17
+2023-07-17,Super Madi Hydropower Limited,SMHL,413.6
+2023-07-16,Super Madi Hydropower Limited,SMHL,422.0
+2023-07-13,Super Madi Hydropower Limited,SMHL,433.9
+2023-07-17,Super Mai Hydropower Limited,SMH,570.0
+2023-07-16,Super Mai Hydropower Limited,SMH,564.8
+2023-07-13,Super Mai Hydropower Limited,SMH,561.0
+2023-07-17,Support Microfinance Bittiya Sanstha Ltd.,SMB,972.9
+2023-07-16,Support Microfinance Bittiya Sanstha Ltd.,SMB,955.8
+2023-07-13,Support Microfinance Bittiya Sanstha Ltd.,SMB,967.0
+2023-07-17,SuryaJyoti Life Insurance Company Limited,SJLIC,625.0
+2023-07-16,SuryaJyoti Life Insurance Company Limited,SJLIC,627.9
+2023-07-13,SuryaJyoti Life Insurance Company Limited,SJLIC,637.0
+2023-07-17,Suryodaya Womi Laghubitta Bittiya Sanstha Limited,SWMF,762.0
+2023-07-16,Suryodaya Womi Laghubitta Bittiya Sanstha Limited,SWMF,738.0
+2023-07-13,Suryodaya Womi Laghubitta Bittiya Sanstha Limited,SWMF,752.0
+2023-07-17,Swabalamban Laghubitta Bittiya Sanstha Limited,SWBBL,898.0
+2023-07-16,Swabalamban Laghubitta Bittiya Sanstha Limited,SWBBL,900.6
+2023-07-13,Swabalamban Laghubitta Bittiya Sanstha Limited,SWBBL,892.5
+2023-07-17,Swabhimaan Laghubitta Bittiya Sanstha Limited,SMFBS,1173.0
+2023-07-16,Swabhimaan Laghubitta Bittiya Sanstha Limited,SMFBS,1152.0
+2023-07-13,Swabhimaan Laghubitta Bittiya Sanstha Limited,SMFBS,1176.0
+2023-07-17,Swarojgar Laghu Bitta Bikas Bank Ltd.,SLBBL,720.0
+2023-07-16,Swarojgar Laghu Bitta Bikas Bank Ltd.,SLBBL,709.0
+2023-07-13,Swarojgar Laghu Bitta Bikas Bank Ltd.,SLBBL,725.2
+2023-07-17,Swet-Ganga Hydropower & Construction Limited ,SGHC,280.0
+2023-07-16,Swet-Ganga Hydropower & Construction Limited ,SGHC,275.0
+2023-07-13,Swet-Ganga Hydropower & Construction Limited ,SGHC,287.0
+2023-07-17,Synergy Power Development Ltd.,SPDL,258.5
+2023-07-16,Synergy Power Development Ltd.,SPDL,254.5
+2023-07-13,Synergy Power Development Ltd.,SPDL,265.0
+2023-07-17,Taragaon Regency Hotel Limited,TRH,815.9
+2023-07-16,Taragaon Regency Hotel Limited,TRH,796.0
+2023-07-13,Taragaon Regency Hotel Limited,TRH,811.0
+2023-07-17,Terhathum Power Company Limited,TPC,377.0
+2023-07-16,Terhathum Power Company Limited,TPC,377.0
+2023-07-13,Terhathum Power Company Limited,TPC,396.0
+2023-07-17,UNIVERSAL POWER COMPANY LTD,UPCL,227.0
+2023-07-16,UNIVERSAL POWER COMPANY LTD,UPCL,221.0
+2023-07-13,UNIVERSAL POWER COMPANY LTD,UPCL,229.5
+2023-07-17,Unilever Nepal Limited,UNL,33657.9
+2023-07-16,Unilever Nepal Limited,UNL,32998.0
+2023-07-13,Unilever Nepal Limited,UNL,32700.0
+2023-07-17,Union Hydropower Limited,UNHPL,203.9
+2023-07-16,Union Hydropower Limited,UNHPL,205.0
+2023-07-13,Union Hydropower Limited,UNHPL,211.0
+2023-07-17,Unique Nepal Laghubitta Bittiya Sanstha Limited,UNLB,1340.0
+2023-07-16,Unique Nepal Laghubitta Bittiya Sanstha Limited,UNLB,1365.0
+2023-07-13,Unique Nepal Laghubitta Bittiya Sanstha Limited,UNLB,1400.7
+2023-07-17,United Ajod Insurance Limited,UAIL,538.4
+2023-07-17,United IDI Mardi RB Hydropower Limited.,UMRH,460.0
+2023-07-16,United IDI Mardi RB Hydropower Limited.,UMRH,444.0
+2023-07-13,United IDI Mardi RB Hydropower Limited.,UMRH,457.0
+2023-07-17,United Modi Hydropower Ltd.,UMHL,218.0
+2023-07-16,United Modi Hydropower Ltd.,UMHL,219.3
+2023-07-13,United Modi Hydropower Ltd.,UMHL,225.9
+2023-07-17,Unnati Sahakarya Laghubitta Bittiya Sanstha Limited,USLB,852.0
+2023-07-16,Unnati Sahakarya Laghubitta Bittiya Sanstha Limited,USLB,836.5
+2023-07-13,Unnati Sahakarya Laghubitta Bittiya Sanstha Limited,USLB,853.1
+2023-07-17,Upakar Laghubitta Bittiya Sanstha Limited,ULBSL,1407.9
+2023-07-16,Upakar Laghubitta Bittiya Sanstha Limited,ULBSL,1407.0
+2023-07-13,Upakar Laghubitta Bittiya Sanstha Limited,ULBSL,1458.0
+2023-07-17,Upper Hewakhola Hydropower Company Limited,UHEWA,309.0
+2023-07-16,Upper Hewakhola Hydropower Company Limited,UHEWA,305.0
+2023-07-13,Upper Hewakhola Hydropower Company Limited,UHEWA,325.0
+2023-07-17,Upper Solu Hydro Electric Company Limited,USHEC,263.0
+2023-07-16,Upper Solu Hydro Electric Company Limited,USHEC,270.0
+2023-07-13,Upper Solu Hydro Electric Company Limited,USHEC,275.0
+2023-07-17,Upper Tamakoshi Hydropower Ltd,UPPER,429.9
+2023-07-16,Upper Tamakoshi Hydropower Ltd,UPPER,437.5
+2023-07-13,Upper Tamakoshi Hydropower Ltd,UPPER,445.0
+2023-07-13,Vijaya laghubitta Bittiya Sanstha Ltd.,VLBS,723.0
+2023-07-17,Wean Nepal Laghubitta Bittiya Sanstha Limited,WNLB,835.0
+2023-07-16,Wean Nepal Laghubitta Bittiya Sanstha Limited,WNLB,805.0
+2023-07-13,Wean Nepal Laghubitta Bittiya Sanstha Limited,WNLB,810.0
